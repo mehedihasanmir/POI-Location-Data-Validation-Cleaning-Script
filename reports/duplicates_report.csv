@@ -1,0 +1,126 @@
+poi_id_1,name_1,poi_id_2,name_2,distance_meters,name_similarity,suggested_action
+OSM0002,Bangladesh Eye Hospital,OSM0666,Bangladesh Eye Hospital,10.3,1.0,merge / keep most complete record
+OSM0003,State University of Bangladesh,OSM0982,State University of Bangladesh,29.8,1.0,merge / keep most complete record
+OSM0021,Metro shopping mall,OSM0978,Metro Shopping Mall,18.7,1.0,merge / keep most complete record
+OSM0026,Iranian International School,OSM0977,Iranian International School,17.3,1.0,merge / keep most complete record
+OSM0030,Bangladesh Medical College Hospital,OSM0968,Bangladesh Medical College Hospital,28.1,1.0,merge / keep most complete record
+OSM0050,Paschim Pantha Path jame Masjid,OSM0962,North Dhanmondi Jame Masjid,49.5,0.62,merge / keep most complete record
+OSM0056,Longla Panjabi,OSM0849,Longla,5.9,0.6,merge / keep most complete record
+OSM0057,Al aksa mosque,OSM0200,Al aksa mosque,35.0,1.0,merge / keep most complete record
+OSM0060,আইএফআইসি ব্যাংক লিমিটেড এটিএম,OSM0203,জনতা ব্যাংক এটিএম,3.4,0.57,merge / keep most complete record
+OSM0060,আইএফআইসি ব্যাংক লিমিটেড এটিএম,OSM0204,ডিবিবিএল ব্যাংক এটিএম,9.1,0.56,merge / keep most complete record
+OSM0068,বেঙ্গল ক্যাফে,OSM0991,বেঙ্গল বই,13.9,0.64,merge / keep most complete record
+OSM0071,Eastern University,OSM0105,Eastern University,7.5,1.0,merge / keep most complete record
+OSM0071,Eastern University,OSM0442,Eastern university - main campus,6.7,0.75,merge / keep most complete record
+OSM0076,ডাচ-বাংলা ব্যাংক,OSM0077,জনতা ব্যাংক,31.6,0.59,merge / keep most complete record
+OSM0093,Mollick preparatory school / Singing Academy,OSM0163,Mollick Preparatory School,25.3,0.68,merge / keep most complete record
+OSM0105,Eastern University,OSM0442,Eastern university - main campus,8.0,0.75,merge / keep most complete record
+OSM0135,এক্সিম ব্যাংক,OSM0136,ইস্টার্ন ব্যাংক,23.6,0.57,merge / keep most complete record
+OSM0136,ইস্টার্ন ব্যাংক,OSM0140,স্ট্যান্ডার্ড চার্টার্ড ব্যাংক,57.0,0.58,merge / keep most complete record
+OSM0137,মিডল্যান্ড ব্যাংক,OSM0140,স্ট্যান্ডার্ড চার্টার্ড ব্যাংক,6.4,0.55,merge / keep most complete record
+OSM0139,Olympia Palace,OSM0781,Olympia Palace,27.1,1.0,merge / keep most complete record
+OSM0165,School of Development (SODA),OSM0166,University of Development (UODA),19.1,0.75,merge / keep most complete record
+OSM0167,প্রাইম ব্যাংক,OSM0214,প্রাইম ব্যাংক চক্ষু হাসপাতাল,4.4,0.63,merge / keep most complete record
+OSM0170,Pizza Hut Delivery,OSM0447,Pizza Hut,13.2,0.67,merge / keep most complete record
+OSM0193,Baitus-salam Zome Mosque,OSM0979,Baitus Salam Mosque,18.5,0.83,merge / keep most complete record
+OSM0203,জনতা ব্যাংক এটিএম,OSM0204,ডিবিবিএল ব্যাংক এটিএম,5.7,0.68,merge / keep most complete record
+OSM0209,Kaisar sweet shop,OSM0771,Muslim Sweets,33.2,0.56,merge / keep most complete record
+OSM0210,NOIR,OSM0468,Noir,8.9,1.0,merge / keep most complete record
+OSM0229,Clinic Cafe,OSM0236,Comic Cafe,8.2,0.76,merge / keep most complete record
+OSM0234,Sunmoon Tailor,OSM0346,Sunraj Tailor,9.9,0.74,merge / keep most complete record
+OSM0236,Comic Cafe,OSM0377,premium cafe,22.7,0.64,merge / keep most complete record
+OSM0262,Dutch Bangla Bank Ltd,OSM0263,Dutch Bangla Bank Ltd,1.8,1.0,merge / keep most complete record
+OSM0272,Lab Aid Pharma,OSM0291,Adda Restaurant and Part Center,48.5,0.59,merge / keep most complete record
+OSM0287,ব্যাংক এশিয়া,OSM0288,ব্যাংক এশিয়া,3.4,1.0,merge / keep most complete record
+OSM0294,Prime Bank Ltd,OSM0302,Prime Bank Ltd,46.7,1.0,merge / keep most complete record
+OSM0300,Poroma Publication,OSM0301,Hakkani Publication,6.7,0.7,merge / keep most complete record
+OSM0312,Johny Print Sharee,OSM0325,Pinon SHARI,42.2,0.55,merge / keep most complete record
+OSM0312,Johny Print Sharee,OSM0328,Jony Print Sharee,45.7,0.97,merge / keep most complete record
+OSM0313,Mohon Chand Grand Son,OSM0318,Zadob Ghosh Grand Son,14.3,0.67,merge / keep most complete record
+OSM0315,Tangail Sharee Hut,OSM0362,Banglar Sharee Mela,9.2,0.65,merge / keep most complete record
+OSM0322,Masum Vai Confectionary,OSM0892,Masum Bhai Confectionery,1.5,0.89,merge / keep most complete record
+OSM0325,Pinon SHARI,OSM0328,Jony Print Sharee,3.7,0.57,merge / keep most complete record
+OSM0326,Maya Video,OSM0899,Sara Video,6.4,0.8,merge / keep most complete record
+OSM0335,আইসিবি ইসলামী ব্যাংক,OSM0336,ডাচ-বাংলা ব্যাংক,13.4,0.56,merge / keep most complete record
+OSM0335,আইসিবি ইসলামী ব্যাংক,OSM0343,আইসিবি ব্যাংক,17.2,0.79,merge / keep most complete record
+OSM0336,ডাচ-বাংলা ব্যাংক,OSM0343,আইসিবি ব্যাংক,3.8,0.55,merge / keep most complete record
+OSM0337,জনতা ব্যাংক,OSM0339,অগ্রণী ব্যাংক,20.1,0.58,merge / keep most complete record
+OSM0356,Bnglar Tat Mela,OSM0362,Banglar Sharee Mela,25.1,0.76,merge / keep most complete record
+OSM0361,Khan Fashion,OSM0367,New Corner Fashion,15.7,0.6,merge / keep most complete record
+OSM0361,Khan Fashion,OSM0368,Pritymony Fashion,26.7,0.62,merge / keep most complete record
+OSM0361,Khan Fashion,OSM0369,Rajdhani Fashion,25.1,0.79,merge / keep most complete record
+OSM0361,Khan Fashion,OSM0370,Unique Fashion,18.8,0.69,merge / keep most complete record
+OSM0367,New Corner Fashion,OSM0370,Unique Fashion,3.1,0.62,merge / keep most complete record
+OSM0368,Pritymony Fashion,OSM0369,Rajdhani Fashion,7.5,0.61,merge / keep most complete record
+OSM0368,Pritymony Fashion,OSM0370,Unique Fashion,9.9,0.58,merge / keep most complete record
+OSM0369,Rajdhani Fashion,OSM0370,Unique Fashion,13.4,0.67,merge / keep most complete record
+OSM0369,Rajdhani Fashion,OSM0372,Dhaka Fashion,43.5,0.76,merge / keep most complete record
+OSM0370,Unique Fashion,OSM0372,Dhaka Fashion,48.5,0.59,merge / keep most complete record
+OSM0393,অগ্রনী ব্যাংক লিমিটেড,OSM0946,অগ্রণী ব্যাংক,44.7,0.71,merge / keep most complete record
+OSM0397,প্রিমিয়ার ব্যাংক লিমিটেড,OSM1014,ব্রাক ব্যাংক লিমিটেড,45.5,0.82,merge / keep most complete record
+OSM0452,trump cafe,OSM0944,Cheers Cafe,55.4,0.57,merge / keep most complete record
+OSM0462,Bata,OSM0940,Bata,5.4,1.0,merge / keep most complete record
+OSM0471,dark,OSM0779,Dark,21.3,1.0,merge / keep most complete record
+OSM0473,Ibn Sina Hospital,OSM0703,Ibn Sina Pharmacy,14.6,1.0,merge / keep most complete record
+OSM0475,junior labotary,OSM0970,Junior Laboratory High School,36.9,0.76,merge / keep most complete record
+OSM0693,Bismillah General Store,OSM0694,Ma General Store,47.8,0.74,merge / keep most complete record
+OSM0694,Ma General Store,OSM0697,Janani General Store,41.3,0.75,merge / keep most complete record
+OSM0764,Rain Medical,OSM0928,Transom Digital,51.7,0.59,merge / keep most complete record
+OSM0765,One Cafe,OSM0777,2.0 Cafe,5.4,0.62,merge / keep most complete record
+OSM0792,Nagardola,OSM0799,Sonargaon,32.8,0.56,merge / keep most complete record
+OSM0835,Iva Garments,OSM0843,Moon Garments,5.2,0.72,merge / keep most complete record
+OSM0848,Hanif Paribahan,OSM0854,Eagle Paribahan,22.3,0.73,merge / keep most complete record
+OSM0848,Hanif Paribahan,OSM0859,Saint Martin Paribahan,31.6,0.7,merge / keep most complete record
+OSM0848,Hanif Paribahan,OSM0862,Sawdia Paribahan,11.3,0.77,merge / keep most complete record
+OSM0848,Hanif Paribahan,OSM0873,Bagdad Paribahan,35.2,0.71,merge / keep most complete record
+OSM0848,Hanif Paribahan,OSM0875,Shyamoli Paribahan,15.4,0.79,merge / keep most complete record
+OSM0854,Eagle Paribahan,OSM0859,Saint Martin Paribahan,53.2,0.59,merge / keep most complete record
+OSM0854,Eagle Paribahan,OSM0862,Sawdia Paribahan,33.1,0.71,merge / keep most complete record
+OSM0854,Eagle Paribahan,OSM0873,Bagdad Paribahan,12.9,0.77,merge / keep most complete record
+OSM0854,Eagle Paribahan,OSM0875,Shyamoli Paribahan,9.7,0.73,merge / keep most complete record
+OSM0854,Eagle Paribahan,OSM0964,Green Line Paribahan Bus Counter,41.9,0.55,merge / keep most complete record
+OSM0859,Saint Martin Paribahan,OSM0862,Sawdia Paribahan,20.4,0.74,merge / keep most complete record
+OSM0859,Saint Martin Paribahan,OSM0875,Shyamoli Paribahan,47.0,0.65,merge / keep most complete record
+OSM0862,Sawdia Paribahan,OSM0873,Bagdad Paribahan,46.0,0.81,merge / keep most complete record
+OSM0862,Sawdia Paribahan,OSM0875,Shyamoli Paribahan,26.7,0.76,merge / keep most complete record
+OSM0865,Bisho Bichitra,OSM0874,World Bichitra,17.7,0.71,merge / keep most complete record
+OSM0865,Bisho Bichitra,OSM0876,Boi Bichitra,6.4,0.85,merge / keep most complete record
+OSM0873,Bagdad Paribahan,OSM0875,Shyamoli Paribahan,21.2,0.65,merge / keep most complete record
+OSM0874,World Bichitra,OSM0876,Boi Bichitra,11.4,0.77,merge / keep most complete record
+OSM0877,Daffodil It Institute,OSM0958,Daffodil Computers Limited,14.0,0.62,merge / keep most complete record
+OSM0889,Kakoli Garments,OSM0900,S R Garments,3.5,0.67,merge / keep most complete record
+OSM0893,New Sat Rong,OSM0897,Saat Rong,1.8,0.76,merge / keep most complete record
+OSM0898,Haque Bakery,OSM0901,Haque Bakery,3.0,1.0,merge / keep most complete record
+OSM0947,"Mukul Dental Clinic, Hospital, Green Square Road, Dhaka",OSM0949,"Labid hospital Dhanmondi, Hospital, Green Square Road, Dhaka",52.7,0.72,merge / keep most complete record
+OSM0957,Dutch-Bangla Bank Limited - Fast track | ATM Booth,OSM0959,Uttara Bank Limited | ATM Booth,55.3,0.64,merge / keep most complete record
+OSM1004,ChefMate Lounge,OSM1005,Chef Mate Lounge,0.0,0.97,merge / keep most complete record
+OSM1027,Street Vendors,OSM1034,Street Vendors,55.0,1.0,merge / keep most complete record
+OSM1030,Groceries,OSM1031,Monir Store (Groceries),25.5,0.69,merge / keep most complete record
+OSM1038,Bhai Bhai Store (Groceries),OSM1039,Modina Store (Groceries),42.3,0.67,merge / keep most complete record
+OSM1041,General Store,OSM1051,Ma Fatema General Store,58.6,0.58,merge / keep most complete record
+OSM1045,Vendors (Fruits and Vegetables),OSM1050,Vendors (Fast Food),25.1,0.56,merge / keep most complete record
+OSM1046,Vendors,OSM1047,Vendors,19.5,1.0,merge / keep most complete record
+OSM1046,Vendors,OSM1048,Vendors,30.0,1.0,merge / keep most complete record
+OSM1046,Vendors,OSM1049,Vendors,31.6,1.0,merge / keep most complete record
+OSM1047,Vendors,OSM1048,Vendors,20.9,1.0,merge / keep most complete record
+OSM1047,Vendors,OSM1049,Vendors,24.1,1.0,merge / keep most complete record
+OSM1048,Vendors,OSM1049,Vendors,3.6,1.0,merge / keep most complete record
+OSM1053,Vendors (Banana),OSM1054,Vendors (Fruits and Vegetables),37.3,0.55,merge / keep most complete record
+OSM1053,Vendors (Banana),OSM1103,Vendors (Fruits and Vegetables),16.4,0.55,merge / keep most complete record
+OSM1054,Vendors (Fruits and Vegetables),OSM1103,Vendors (Fruits and Vegetables),21.7,1.0,merge / keep most complete record
+OSM1066,General Store,OSM1067,General Store,21.7,1.0,merge / keep most complete record
+OSM1066,General Store,OSM1068,General Store,12.3,1.0,merge / keep most complete record
+OSM1067,General Store,OSM1068,General Store,33.9,1.0,merge / keep most complete record
+OSM1073,Hardware Store,OSM1074,Hardware Store,6.8,1.0,merge / keep most complete record
+OSM1075,Hardware Store,OSM1088,Hardware Store,42.7,1.0,merge / keep most complete record
+OSM1079,Saloon,OSM1080,Saloon,9.2,1.0,merge / keep most complete record
+OSM1082,Restaurant,OSM1083,Restaurant,30.6,1.0,merge / keep most complete record
+OSM1084,Grocery Store,OSM1085,Grocery Store,18.7,1.0,merge / keep most complete record
+OSM1086,Grocery Store,OSM1087,Grocery Store,23.1,1.0,merge / keep most complete record
+OSM1089,Vendors (Fish),OSM1091,Vendors (Chicken),48.4,0.71,merge / keep most complete record
+OSM1089,Vendors (Fish),OSM1092,Vendors (street food),31.7,0.63,merge / keep most complete record
+OSM1089,Vendors (Fish),OSM1093,Vendors,49.7,0.67,merge / keep most complete record
+OSM1089,Vendors (Fish),OSM1102,Vendors (Vegetable and Fruits),7.6,0.59,merge / keep most complete record
+OSM1092,Vendors (street food),OSM1102,Vendors (Vegetable and Fruits),28.0,0.59,merge / keep most complete record
+OSM1097,Rickshaw/CNG Stand,OSM1098,Rickshaw Stand,25.9,0.88,merge / keep most complete record
+OSM1098,Rickshaw Stand,OSM1099,CNG Stand,54.0,0.61,merge / keep most complete record

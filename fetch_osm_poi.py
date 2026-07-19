@@ -20,8 +20,10 @@ cross-check against OSM as a reference source.
 
 import argparse
 import csv
+import os
 
 import requests
+from requests.exceptions import RequestException
 
 # Rough bounding boxes: (south, west, north, east)
 AREAS = {
@@ -29,7 +31,17 @@ AREAS = {
     "gulshan": (23.7750, 90.4050, 23.8050, 90.4250),
 }
 
-OVERPASS_URL = "https://overpass-api.de/api/interpreter"
+OVERPASS_URLS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://lz4.overpass-api.de/api/interpreter",
+]
+
+REQUEST_HEADERS = {
+    # Some Overpass instances reject generic/no-agent clients.
+    "User-Agent": "poi-qa-fetcher/1.0 (local script)",
+    "Accept": "application/json,text/plain,*/*",
+}
 
 
 def build_query(bbox):
@@ -47,9 +59,32 @@ def build_query(bbox):
 def fetch(area):
     bbox = AREAS[area]
     query = build_query(bbox)
-    resp = requests.post(OVERPASS_URL, data={"data": query}, timeout=90)
-    resp.raise_for_status()
-    return resp.json()["elements"]
+    last_error = None
+
+    for url in OVERPASS_URLS:
+        try:
+            # Send raw query body; this works across more Overpass mirrors.
+            resp = requests.post(
+                url,
+                data=query.encode("utf-8"),
+                headers={**REQUEST_HEADERS, "Content-Type": "text/plain; charset=utf-8"},
+                timeout=90,
+            )
+            resp.raise_for_status()
+            return resp.json()["elements"]
+        except RequestException as exc:
+            last_error = exc
+            continue
+
+    details = ""
+    if hasattr(last_error, "response") and last_error.response is not None:
+        snippet = last_error.response.text[:400].strip().replace("\n", " ")
+        details = f" | server said: {snippet}"
+    raise RuntimeError(
+        "Failed to fetch Overpass data from all endpoints. "
+        "This is usually temporary rate limiting/server policy. "
+        f"Last error: {last_error}{details}"
+    )
 
 
 def to_rows(elements):
@@ -89,7 +124,11 @@ if __name__ == "__main__":
     elements = fetch(args.area)
     rows = to_rows(elements)
 
-    with open(output_path, "w", newline="") as f:
+    output_dir = os.path.dirname(output_path)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+
+    with open(output_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=[
             "poi_id", "name", "category", "address", "phone",
             "latitude", "longitude", "source",

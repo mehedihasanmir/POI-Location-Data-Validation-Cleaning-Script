@@ -1,0 +1,833 @@
+poi_id,name,category,address,phone,latitude,longitude,source
+OSM0001,Graphic Art Institute,college,,,23.7536801,90.3650819,osm_live
+OSM0002,Bangladesh Eye Hospital,hospital,Satmasjid Road,,23.7517932,90.3673206,osm_live
+OSM0003,State University of Bangladesh,university,,,23.75154,90.367356,osm_live
+OSM0004,Four Season,restaurant,,,23.7514014,90.3679886,osm_live
+OSM0007,Pizza Hut,fast_food,,,23.747443,90.3702179,osm_live
+OSM0008,Star Kabab,fast_food,Road 19/A,,23.7475099,90.3702012,osm_live
+OSM0009,Stamford University,university,,,23.7472743,90.3703175,osm_live
+OSM0011,এইচএসবিসি,bank,,,23.7456794,90.3714114,osm_live
+OSM0012,Stamford University,university,,,23.7456368,90.3714332,osm_live
+OSM0013,Darul Ihsan University,university,,,23.7468402,90.3755557,osm_live
+OSM0015,Gonoshastha Nagar Hospital,hospital,"14/E, Road 6",+8801716-838078,23.7434833,90.3825849,osm_live
+OSM0016,সোনালী ব্যাংক লিমিটেড,bank,Road 6,,23.7438407,90.3833458,osm_live
+OSM0017,Dhanmondi Girls School,school,,,23.7489744,90.3773738,osm_live
+OSM0018,Sobhanbagh Mosque,place_of_worship,,,23.7542062,90.3762775,osm_live
+OSM0019,Star Kabab Hotel & Restaurant,restaurant,,,23.7393534,90.38101,osm_live
+OSM0020,science lab police box,police,"H#3, Dhanmondi Road1",,23.7388054,90.3832282,osm_live
+OSM0021,Metro shopping mall,marketplace,,,23.7523575,90.3772723,osm_live
+OSM0023,Goethe Institut Bangladesh,community_centre,"House No.10, Road 9, Dhanmondi R/A,",+880 9638-038888,23.7465386,90.3796889,osm_live
+OSM0025,Bachelor Point,cafe,,,23.7418435,90.3744178,osm_live
+OSM0026,Iranian International School,school,,,23.7395864,90.3786179,osm_live
+OSM0028,হংকং এন্ড সাংহাই ব্যাংকিং কর্পোরেশন (এইচএসবিসি),bank,,,23.7548919,90.373186,osm_live
+OSM0029,Bank Alfalah,supermarket,Road 7A,,23.7441328,90.3732614,osm_live
+OSM0030,Bangladesh Medical College Hospital,hospital,,,23.7501949,90.3697475,osm_live
+OSM0031,ইবনে সিনা হাসপাতাল,hospital,,,23.7515946,90.368919,osm_live
+OSM0033,Shihab Departmental Store,convenience,,,23.7406014,90.3783271,osm_live
+OSM0034,Fortuna Fried Chicken,fast_food,"75, Rd #5, Shatmasjid Road, Dhanmondi",,23.7418201,90.3738082,osm_live
+OSM0036,Sunami Restaurant,fast_food,,,23.7389955,90.3747981,osm_live
+OSM0037,Walton Plaza,electronics,,,23.7387934,90.3742651,osm_live
+OSM0041,Meena Bazar head office,supermarket,"44, ধানমণ্ডি ১৬",,23.7531652,90.3696585,osm_live
+OSM0042,Coffee World,cafe,,,23.753283,90.3695136,osm_live
+OSM0043,Bar-B-Q Tonite,restaurant,,,23.7536736,90.3705514,osm_live
+OSM0044,Oxford International School,school,,,23.7538867,90.3707311,osm_live
+OSM0045,Patam Restaurant,fast_food,,,23.7388066,90.3760142,osm_live
+OSM0046,ব্র্যাক ব্যাংক,atm,,,23.7435824,90.3734579,osm_live
+OSM0047,Cream and Fudge Factory,ice_cream,,,23.7476925,90.3705704,osm_live
+OSM0048,স্ট্যান্ডার্ড চার্টার্ড ব্যাংক এটিএম,atm,,,23.7548131,90.3758909,osm_live
+OSM0049,Punizz Kitchen,cafe,"4/2, Road 4",,23.7419967,90.3832754,osm_live
+OSM0050,Paschim Pantha Path jame Masjid,place_of_worship,,,23.752694,90.3830666,osm_live
+OSM0051,Mutual Trust Bank Ltd.,bank,,,23.7441258,90.3730273,osm_live
+OSM0052,American Burger,restaurant,Satmasjid Road,,23.7405519,90.3749874,osm_live
+OSM0053,প্রিমিয়ার ব্যাংক,bank,75,,23.7417694,90.3738999,osm_live
+OSM0054,DHL,post_office,"74, 5/A",,23.7417021,90.3740378,osm_live
+OSM0055,Ulta Voot,restaurant,Dhanmondi Road 2,,23.738869,90.3781474,osm_live
+OSM0056,Longla Panjabi,clothes,,,23.7385799,90.3838071,osm_live
+OSM0057,Al aksa mosque,place_of_worship,"house#61, Road 4A",,23.7400928,90.3738065,osm_live
+OSM0058,Dhopapara Masjid,place_of_worship,,,23.7410861,90.3724377,osm_live
+OSM0059,Tiw Mazar Mosque,place_of_worship,Teenmajar road,,23.7379901,90.3679748,osm_live
+OSM0060,আইএফআইসি ব্যাংক লিমিটেড এটিএম,atm,,,23.7526102,90.3824173,osm_live
+OSM0061,ডাচ-বাংলা ব্যাংক লিমিটেড এটিএম,atm,,,23.7512712,90.3787772,osm_live
+OSM0062,শাহজালাল ইসলামী ব্যাংক লিমিটেড,bank,,,23.7519205,90.379754,osm_live
+OSM0063,Bangladesh Film Institute,cinema,,,23.750199,90.3794226,osm_live
+OSM0064,উত্তরা ব্যাংক লিমিটেড,bank,,,23.7484731,90.3801384,osm_live
+OSM0065,দ্যা সিটি ব্যাংক,atm,,,23.7547435,90.3759433,osm_live
+OSM0066,Tehari Ghor,restaurant,,,23.7537236,90.3764151,osm_live
+OSM0067,দ্যা সিটি ব্যাংক,bank,,,23.7529556,90.3706968,osm_live
+OSM0068,বেঙ্গল ক্যাফে,cafe,"Bengal Shilpalay, House 42, সড়ক ২৭ (নতুন ১৬)",,23.7533849,90.3698115,osm_live
+OSM0069,সাউথইস্ট ব্যাংক,bank,Satmasjid Road,,23.7476704,90.3706347,osm_live
+OSM0070,Uttora Bank LImited,bank,,,23.7451697,90.3718981,osm_live
+OSM0071,Eastern University,university,,,23.7424942,90.3805747,osm_live
+OSM0072,Al Hera Jame Mosque,place_of_worship,,,23.7371128,90.3714446,osm_live
+OSM0073,Bitul Aman Jam Mosque,place_of_worship,,,23.7390685,90.3732138,osm_live
+OSM0074,BM Laboratory School,school,,,23.7386807,90.3734295,osm_live
+OSM0075,Darling Point Restaurant,restaurant,,,23.7388237,90.3741103,osm_live
+OSM0076,ডাচ-বাংলা ব্যাংক,bank,,,23.7387747,90.3740278,osm_live
+OSM0077,জনতা ব্যাংক,bank,,,23.7388281,90.374333,osm_live
+OSM0078,সোনালী ব্যাংক লিমিটেড,bank,,,23.7385398,90.3734562,osm_live
+OSM0079,Baitun Nur Mosjid,place_of_worship,,,23.7385641,90.3744792,osm_live
+OSM0080,Colony Mosque,place_of_worship,,,23.7380706,90.370843,osm_live
+OSM0081,RFL Best Buy Jigatala,supermarket,,,23.738649,90.3708493,osm_live
+OSM0082,Jahur Ali Manshion,marketplace,,,23.7383341,90.3727504,osm_live
+OSM0083,B Type Mosque,place_of_worship,,,23.7388386,90.3714854,osm_live
+OSM0084,B.M Laboratory School,school,,,23.7378337,90.3695731,osm_live
+OSM0085,Baitul Moharram Jarye Mosque,place_of_worship,,,23.7374131,90.3685169,osm_live
+OSM0086,Ciam School,school,,,23.7376263,90.3682239,osm_live
+OSM0087,Europa International School,school,,,23.7379292,90.3693263,osm_live
+OSM0088,MSF Occupational Health Clinic,clinic,,,23.7377383,90.3682255,osm_live
+OSM0089,Ayesha Academy School,school,,,23.7378071,90.3703387,osm_live
+OSM0090,Tannery Block Jame Mosque,place_of_worship,,,23.7361276,90.3690083,osm_live
+OSM0091,Tahfizul Koran Hafezia Madrassa,place_of_worship,,,23.7399392,90.371221,osm_live
+OSM0092,Holy Flower Model College,college,,,23.7402926,90.3707062,osm_live
+OSM0093,Mollick preparatory school / Singing Academy,school,,,23.7401361,90.3708049,osm_live
+OSM0094,Salec garden Bazar,marketplace,,,23.740354,90.3707843,osm_live
+OSM0095,Amin Medical Center,doctors,,,23.7396232,90.3706222,osm_live
+OSM0096,Community police post (DMP),police,,,23.7413027,90.3702404,osm_live
+OSM0097,jigatola Gabtola mosjid,place_of_worship,,,23.7395709,90.3700084,osm_live
+OSM0098,CBT Police Fari,police,,,23.7400748,90.3695979,osm_live
+OSM0099,Moneshwar Government Primary School,school,,,23.7390731,90.368012,osm_live
+OSM0100,Sufia Zinan International School,school,,,23.740808,90.3667561,osm_live
+OSM0101,Sher-e-Bangla Road Jame Masjid,place_of_worship,,,23.7400645,90.3671863,osm_live
+OSM0102,Sobuz Shakha Kindergarten,kindergarten,,,23.7403182,90.3667689,osm_live
+OSM0103,Masjide Baitul Mamur,place_of_worship,,,23.7405529,90.3654201,osm_live
+OSM0104,Dominus Pizza,restaurant,,,23.7383716,90.3776432,osm_live
+OSM0105,Eastern University,university,"House 26, Road 5",,23.74247,90.3806433,osm_live
+OSM0106,Gallery Apex,shoes,"42, Satmasjid Road",01786666555,23.7386565,90.3755148,osm_live
+OSM0107,Ibn Sina Consultation & Diagonastic Center,doctors,"58, Road 2/A",,23.7391347,90.3759437,osm_live
+OSM0108,Bata Showroom,shoes,,,23.739072,90.3752341,osm_live
+OSM0109,Japan Bangladesh Friendship Hospital,hospital,,,23.7395453,90.3750454,osm_live
+OSM0110,Baburchi,restaurant,,,23.7402637,90.3747148,osm_live
+OSM0111,Hi Fi Fashion Gallery,furniture,,,23.7398861,90.3748859,osm_live
+OSM0112,Korai Gost,restaurant,,,23.7403124,90.374699,osm_live
+OSM0113,"University Of Liberal Arts Bangladesh(ULAB), Campus A",university,"House: 56, Road 4A",,23.740877,90.3743611,osm_live
+OSM0118,Teacher's Training College,college,,,23.7362583,90.3829917,osm_live
+OSM0119,Dhanmondi Pharmacy,pharmacy,,,23.7384915,90.3832838,osm_live
+OSM0123,Bhuiya Adorsho High School,school,,,23.7390812,90.3670934,osm_live
+OSM0124,Eran Laboratory School,school,,,23.7391873,90.3662128,osm_live
+OSM0125,Future Generation International School,school,,,23.7395866,90.3674984,osm_live
+OSM0126,Ikra International School and College,school,,,23.7392441,90.366598,osm_live
+OSM0127,Tennary Mor Shahi Masjid,place_of_worship,,,23.7392074,90.3675287,osm_live
+OSM0128,সোনালী ব্যাংক,bank,,,23.7391412,90.3673085,osm_live
+OSM0129,Tabin School,school,,,23.7396749,90.3654133,osm_live
+OSM0130,Abacus,restaurant,,,23.7466113,90.3707916,osm_live
+OSM0131,Bangladesh Research Institute for Integrated Medicine,college,,,23.7458888,90.3703707,osm_live
+OSM0132,Broccolia,restaurant,,,23.7459215,90.371333,osm_live
+OSM0133,Community Development Library,library,,,23.7456761,90.3704751,osm_live
+OSM0134,ডাচ-বাংলা ব্যাংক লিমিটেড,bank,,,23.747339,90.3702971,osm_live
+OSM0135,এক্সিম ব্যাংক,bank,,,23.7462719,90.3709919,osm_live
+OSM0136,ইস্টার্ন ব্যাংক,bank,,,23.7464753,90.3709261,osm_live
+OSM0137,মিডল্যান্ড ব্যাংক,bank,,,23.7469494,90.3705803,osm_live
+OSM0138,Naz-E-Noor Hospital,hospital,,,23.7458503,90.3703427,osm_live
+OSM0139,Olympia Palace,restaurant,,,23.7465154,90.3708964,osm_live
+OSM0140,স্ট্যান্ডার্ড চার্টার্ড ব্যাংক,bank,,,23.7469007,90.3706132,osm_live
+OSM0141,Darul Guran Academy,school,,,23.7463244,90.3685188,osm_live
+OSM0142,Donbash Jama Mosque,place_of_worship,,,23.745758,90.3669064,osm_live
+OSM0143,Modhu Bazar Jama Mosque,place_of_worship,,,23.7462315,90.3684586,osm_live
+OSM0144,Al-Madina Jama Mosque,place_of_worship,,,23.7477502,90.3661569,osm_live
+OSM0145,Hatembag Jame Mosque,place_of_worship,"Hatembag Road, East Rayer Bazar",,23.7434786,90.3678874,osm_live
+OSM0146,Holy Rose School and College,school,,,23.7451739,90.3690055,osm_live
+OSM0147,জনতা ব্যাংক,bank,,,23.7439431,90.3681317,osm_live
+OSM0148,Lotas National School,school,,,23.7463773,90.3654698,osm_live
+OSM0149,Mohammadia Aliya Madrasha,school,,,23.7476275,90.3660364,osm_live
+OSM0150,Razemosare National Primary School,school,,,23.7438709,90.366865,osm_live
+OSM0151,Sinnomul Sonkary Prathomik Biddaloy School,school,,,23.7474894,90.3669514,osm_live
+OSM0152,West Dhanmondi Ideal School,school,,,23.7437487,90.3677361,osm_live
+OSM0154,Al Hossain Girls High School,school,,,23.7495132,90.3664484,osm_live
+OSM0155,West Dhanmondi Yusuf High School,school,,,23.7493818,90.3663352,osm_live
+OSM0156,Zigatola Model Government Primary School,school,,,23.7375494,90.3724231,osm_live
+OSM0157,Mosjidul Takwa,place_of_worship,,,23.7376312,90.3721282,osm_live
+OSM0158,Jigatola Community Center,community_centre,,,23.7378618,90.3719182,osm_live
+OSM0159,Omar Faruk Ideal Academy,school,,,23.7376104,90.3650105,osm_live
+OSM0160,Sowatowgor Shahi Mosque,place_of_worship,,,23.738578,90.3657013,osm_live
+OSM0162,Royal Tannery Mosque,place_of_worship,,,23.7364919,90.3650002,osm_live
+OSM0163,Mollick Preparatory School,school,,,23.7399113,90.3708415,osm_live
+OSM0164,Safs London School and College,school,,,23.7502501,90.3677751,osm_live
+OSM0165,School of Development (SODA),school,,,23.7501339,90.3677218,osm_live
+OSM0166,University of Development (UODA),university,,,23.7499656,90.3677576,osm_live
+OSM0167,প্রাইম ব্যাংক,atm,,,23.7442126,90.3723173,osm_live
+OSM0169,Fakhruddin Convention Center,restaurant,"House 3, Road 3",+88029665238,23.7404416,90.3827683,osm_live
+OSM0170,Pizza Hut Delivery,fast_food,"House 3, Road 3",+8809613-999666,23.7403891,90.3828138,osm_live
+OSM0171,Shawarma House,restaurant,"3, Road 3",+8801766-090002,23.740149,90.382858,osm_live
+OSM0173,Baskin Robbins,fast_food,,,23.7459754,90.3735659,osm_live
+OSM0174,H2O Longe,bar,,,23.7435666,90.3735297,osm_live
+OSM0175,Cocktails,cafe,Road 7A,,23.7439433,90.3745152,osm_live
+OSM0176,ইসলামী ব্যাংক বাংলাদেশ লিমিটেড এটিএম,atm,Road 9A,,23.7451229,90.3722816,osm_live
+OSM0177,Shampan,restaurant,,,23.7539573,90.371954,osm_live
+OSM0178,Dutch- Bangla Bank Limited,bank,Satmasjid Road,,23.7449786,90.3725037,osm_live
+OSM0179,Sky Chef,restaurant,,,23.7412738,90.3746361,osm_live
+OSM0180,আল-আরাফাহ ইসলামী ব্যাংক লিমিটেড,bank,Shatmasjid Road,,23.7411854,90.3746522,osm_live
+OSM0181,Jing Ling Restaurant,restaurant,,,23.7399769,90.3752594,osm_live
+OSM0182,Cart Station,restaurant,,,23.7398721,90.3753122,osm_live
+OSM0183,Kebab on 7,restaurant,,,23.7447886,90.3829633,osm_live
+OSM0185,এবি ব্যাংক এটিএম বুথ,bank,,,23.74217,90.369098,osm_live
+OSM0186,এবি ব্যাংক প্রশিক্ষণ একাডেমী,college,,,23.7419337,90.3693127,osm_live
+OSM0187,Asia Pacific University,university,,,23.7411105,90.3741986,osm_live
+OSM0188,Dutch Bomala Bank ATM Booth,bank,,,23.7416305,90.3698416,osm_live
+OSM0189,Government Remeta Employee Hospital,hospital,,,23.7406532,90.3742506,osm_live
+OSM0190,Radient Rose School,school,,,23.7420771,90.3694916,osm_live
+OSM0192,Modina Mosque,place_of_worship,,,23.7360099,90.3661316,osm_live
+OSM0193,Baitus-salam Zome Mosque,place_of_worship,,,23.7405801,90.3728173,osm_live
+OSM0194,Baitut-lalele Zome Mosque,place_of_worship,,,23.7418403,90.3718135,osm_live
+OSM0195,Hieare School,school,,,23.7416465,90.3731499,osm_live
+OSM0196,Just International School,school,,,23.7436714,90.3700061,osm_live
+OSM0197,Maszid-e-Ixbak-Noor,place_of_worship,,,23.7435151,90.3710088,osm_live
+OSM0198,Shapla Academy,school,,,23.74205,90.3664694,osm_live
+OSM0199,শ্রী কালী মন্দির,place_of_worship,,,23.7422391,90.3666769,osm_live
+OSM0200,Al aksa mosque,place_of_worship,,,23.7403493,90.3740066,osm_live
+OSM0201,Redient Rose School,school,,,23.7445496,90.3712753,osm_live
+OSM0202,Vertex Educare,school,,,23.7407744,90.370636,osm_live
+OSM0203,জনতা ব্যাংক এটিএম,atm,Pantha Path,,23.7526046,90.3823845,osm_live
+OSM0204,ডিবিবিএল ব্যাংক এটিএম,atm,Pantha Path,,23.7525979,90.3823287,osm_live
+OSM0205,Plaza A.R.,supermarket,Road no.14 (new),,23.7548533,90.3757271,osm_live
+OSM0206,Cash and Carry,department_store,,,23.7531355,90.3748078,osm_live
+OSM0207,Keyari plaza,supermarket,"15, Road 15A",,23.7514053,90.3692543,osm_live
+OSM0208,sugondha community center,restaurant,,,23.7414256,90.3732621,osm_live
+OSM0209,Kaisar sweet shop,restaurant,Jigatola Post Office Road,,23.7387925,90.3742672,osm_live
+OSM0210,NOIR,supermarket,,,23.7459932,90.37113,osm_live
+OSM0211,Vikrampur Mistanno Bhandar,restaurant,"78, Satmasjid Road",,23.7519291,90.36723,osm_live
+OSM0212,University Of Development Alternative,university,"80, Satmasjid Road",,23.7520204,90.3670992,osm_live
+OSM0213,dynamic Food Court,cafe,,,23.7418414,90.3744891,osm_live
+OSM0214,প্রাইম ব্যাংক চক্ষু হাসপাতাল,hospital,,,23.7442514,90.3723242,osm_live
+OSM0215,Bata,supermarket,,,23.7445688,90.3720565,osm_live
+OSM0216,Cha Bar,cafe,,,23.7462156,90.3710188,osm_live
+OSM0217,Hello Dhamondi,cafe,,,23.7446033,90.3720729,osm_live
+OSM0218,Cafe Droom,cafe,,,23.7445525,90.3720632,osm_live
+OSM0219,CP Fried Chicken,restaurant,,,23.74541,90.3716609,osm_live
+OSM0220,Coopers,cafe,,,23.7465593,90.370823,osm_live
+OSM0221,Nostalgic Cafe,restaurant,,,23.7469199,90.3705236,osm_live
+OSM0222,Jaypur sweets,fast_food,,,23.7454493,90.3716448,osm_live
+OSM0223,ন্যাশনাল ক্রেডিট কমার্স ব্যাংক লিমিটেড;Sadeeq Agro,bank;restaurant,"19-5/E, সাতমসজিদ রোড",,23.7455696,90.3714678,osm_live
+OSM0224,Swarma KIng,restaurant,,,23.7453732,90.3716609,osm_live
+OSM0225,The Lamp Cafe,restaurant,,,23.7459771,90.3710279,osm_live
+OSM0226,Eden Multicare Hospital,hospital,,,23.7472931,90.3702313,osm_live
+OSM0227,ন্যাশনাল ব্যাংক লিমিটেড,bank,,,23.7490804,90.3691557,osm_live
+OSM0228,Gloria Jeans Coffee,cafe,"67 (New), Satmasjid Road",,23.7495419,90.3687507,osm_live
+OSM0229,Clinic Cafe,restaurant,"67 (New), Satmasjid Road",,23.7495125,90.3687158,osm_live
+OSM0230,Multiple Books Stores,books,,,23.7477584,90.3805143,osm_live
+OSM0231,Delhi Darbar,restaurant,"67 (New), Satmasjid Road",,23.7495366,90.3687022,osm_live
+OSM0232,Cricket Coaching School. (CCS),training,,,23.7493536,90.3701201,osm_live
+OSM0233,Mama'r cha-er dokan.,cafe,Road 8A - Rayer Bazar Staff Quarter Road,,23.7439124,90.3688278,osm_live
+OSM0234,Sunmoon Tailor,tailor,Mirpur Road,,23.7364257,90.3841595,osm_live
+OSM0236,Comic Cafe,restaurant,"67 (New), Satmasjid Road",,23.749533,90.368793,osm_live
+OSM0237,বেসিক ব্যাংক,bank,,,23.7409096,90.3749148,osm_live
+OSM0238,Saima Pharmacy,pharmacy,"62, Road 4",,23.7405158,90.3738818,osm_live
+OSM0239,Manna's photoshop,photo,,,23.7409717,90.3749138,osm_live
+OSM0240,Fireflies,restaurant,,,23.7529227,90.3693385,osm_live
+OSM0241,Al-amar,restaurant,,,23.7528686,90.3691937,osm_live
+OSM0242,Crimson cup coffee shop,cafe,Road 27 (New 16),,23.7529055,90.3692795,osm_live
+OSM0243,Farzana Shakil's,beauty,,,23.7532074,90.3695638,osm_live
+OSM0244,TBC,restaurant,"1/5, Block D, Road No 7, Lalmatia",,23.7539177,90.3695975,osm_live
+OSM0245,Infinity,clothes,,,23.7528074,90.369901,osm_live
+OSM0246,Artisan,clothes,,,23.7528932,90.36925,osm_live
+OSM0247,World University of Bangladesh,school,,,23.7421479,90.3837408,osm_live
+OSM0248,Thames Square,arts_centre,,,23.7474758,90.3701757,osm_live
+OSM0249,Chili's,restaurant,মিরপুর রোড,,23.7520734,90.377498,osm_live
+OSM0250,Dining Room,restaurant,dhaka college campus path,,23.735115,90.3800085,osm_live
+OSM0251,Arong,clothes,"H#4/A, Dhanmondi Road1",,23.7391289,90.3831359,osm_live
+OSM0252,Sports World,yes,,,23.745032,90.381531,osm_live
+OSM0253,ইস্টার্ন ব্যাংক পিএলসি,bank,"21, Road 8",16230,23.7453848,90.3813676,osm_live
+OSM0254,ওয়ান ব্যাংক,bank,,,23.745433,90.3813419,osm_live
+OSM0255,Royal Buffet,restaurant,,,23.7420318,90.3824364,osm_live
+OSM0256,Almas General Store,general,,,23.7424848,90.3823192,osm_live
+OSM0257,Lion Cycle,bicycle,,,23.7450707,90.3815213,osm_live
+OSM0258,Modern Physiotherapy,hospital,"14/a, Dhanmondi Road 2",,23.7394982,90.3814159,osm_live
+OSM0259,Kaisar Sweets,fast_food,P9QC+7XW,,23.7382264,90.3724955,osm_live
+OSM0260,OHCL,hospital,"22/B, Dhanmondi Road 2",,23.7387316,90.3802694,osm_live
+OSM0261,Anowara Medical Services,clinic,"22/A, Dhanmondi Road 2",,23.7387093,90.3801414,osm_live
+OSM0262,Dutch Bangla Bank Ltd,bank,,,23.7455731,90.3821949,osm_live
+OSM0263,Dutch Bangla Bank Ltd,atm,,,23.7455675,90.3821781,osm_live
+OSM0265,Samad Tea Store,tea,NAEM Road,,23.7360343,90.3829532,osm_live
+OSM0266,বিসিএসআইআর পূবালী ব্যাংক,bank,"M, মিরপুর রোড",,23.7394,90.3835953,osm_live
+OSM0267,BCSIR Service and Sales Centre,yes,Mirpur Road,,23.7395651,90.3834867,osm_live
+OSM0269,Shopno Super Shop,supermarket,"3/A, Road 4",,23.742078,90.3837378,osm_live
+OSM0270,Standard Chartered,bank,,,23.7423309,90.38292,osm_live
+OSM0271,Flora Ltd,hardware,,,23.7423172,90.3828811,osm_live
+OSM0272,Lab Aid Pharma,pharmacy,,,23.7421663,90.3828349,osm_live
+OSM0273,Boishaki Bangla Restora,restaurant,,,23.7415064,90.3831137,osm_live
+OSM0274,Western Grill,restaurant,,,23.7414909,90.3829981,osm_live
+OSM0275,Motojogot Center,doctors,,,23.7414725,90.383012,osm_live
+OSM0276,Panaco,restaurant,,,23.7414993,90.383049,osm_live
+OSM0278,Southest Bank Lrd,atm,,,23.741467,90.3834887,osm_live
+OSM0279,ইবিএল৩৬৫,atm,"Plot 1,2, Road 4",,23.7413714,90.3834498,osm_live
+OSM0280,Advanced Laser Cosmetic and Skin Care Center,clinic,,,23.7414038,90.3830215,osm_live
+OSM0281,AB Bank Ltd,atm,,,23.7412694,90.3830516,osm_live
+OSM0282,The Barber Shop,hairdresser,,,23.7502408,90.3670521,osm_live
+OSM0283,Arabian Fast Food,fast_food,,,23.7423149,90.3823549,osm_live
+OSM0284,Eric's Bistro cafe Gallery,cafe,,,23.7423726,90.3823536,osm_live
+OSM0285,Hong Kong Herbal and Beauty Parlar,beauty,,,23.742434,90.3823428,osm_live
+OSM0286,World University,university,,,23.742229,90.3823053,osm_live
+OSM0287,ব্যাংক এশিয়া,bank,,,23.742229,90.3823898,osm_live
+OSM0288,ব্যাংক এশিয়া,atm,,,23.7421995,90.3823978,osm_live
+OSM0289,BFC,fast_food,,,23.7421664,90.3824032,osm_live
+OSM0290,আইএফআইসি ব্যাংক,bank,,,23.7420866,90.3824257,osm_live
+OSM0291,Adda Restaurant and Part Center,restaurant,,,23.7418942,90.3824631,osm_live
+OSM0292,Oppo,mobile_phone,,,23.7418825,90.382518,osm_live
+OSM0293,Manyavar Bangladesh,clothes,,,23.7416543,90.3824016,osm_live
+OSM0294,Prime Bank Ltd,atm,,,23.7416952,90.3825774,osm_live
+OSM0299,Usha Silk,clothes,,,23.741458,90.3825754,osm_live
+OSM0300,Poroma Publication,public_bookcase,,,23.7413959,90.3825862,osm_live
+OSM0301,Hakkani Publication,public_bookcase,,,23.7413368,90.3825986,osm_live
+OSM0302,Prime Bank Ltd,bank,"26, Dhanmondi Road 3",,23.7412761,90.3826109,osm_live
+OSM0303,Shahajalal Islami Bank Ltd,bank,"26, Dhanmondi Road 3",,23.7412296,90.3826263,osm_live
+OSM0305,Symphony,mobile_phone,,,23.7402031,90.3828423,osm_live
+OSM0306,Dr. Refayetullah Eye Care Center,clinic,,,23.7402722,90.3828392,osm_live
+OSM0307,Camera Museum,photo,,,23.7401101,90.3828469,osm_live
+OSM0308,S S Mart,supermarket,,,23.7403554,90.382776,osm_live
+OSM0309,Islami Bank Bangladesh Ltd,bank,,,23.7358753,90.3842633,osm_live
+OSM0310,Black Rose Tailors & Fabrics,tailor,,,23.7360297,90.3842555,osm_live
+OSM0311,Concord,mall,Mirpur Road,,23.7408942,90.3832633,osm_live
+OSM0312,Johny Print Sharee,clothes,"6, Mirpur Road",,23.7353961,90.3844058,osm_live
+OSM0313,Mohon Chand Grand Son,confectionery,,,23.7357506,90.3842942,osm_live
+OSM0314,Medona Dental Clinic,clinic,,,23.7357309,90.3843013,osm_live
+OSM0315,Tangail Sharee Hut,clothes,"6, Mirpur Road",,23.7354166,90.3843991,osm_live
+OSM0316,Axis,clothes,"6, Mirpur Road",,23.7353743,90.3844109,osm_live
+OSM0317,Yellow,clothes,Dhanmondi Road 2A,,23.7389189,90.3807849,osm_live
+OSM0318,Zadob Ghosh Grand Son,confectionery,,,23.735634,90.3843546,osm_live
+OSM0319,Sun City Tailors,tailor,,,23.7356144,90.3843438,osm_live
+OSM0320,Uttora Bank Ltd,bank,,,23.7355665,90.3843559,osm_live
+OSM0321,mirpur rood sopin senter,clothes,,,23.7371628,90.3840392,osm_live
+OSM0322,Masum Vai Confectionary,food,,,23.7350123,90.3849249,osm_live
+OSM0324,Mithali store,clothes,Mirpur Road,,23.7350299,90.3845533,osm_live
+OSM0325,Pinon SHARI,clothes,Mirpur Road,,23.7350544,90.3845855,osm_live
+OSM0326,Maya Video,video,,,23.7350052,90.3849101,osm_live
+OSM0327,Ajmir Electronics,electronics,,,23.7350258,90.3849282,osm_live
+OSM0328,Jony Print Sharee,clothes,,,23.7350213,90.3845895,osm_live
+OSM0329,Harun Pharmacy,pharmacy,,,23.7351311,90.3849583,osm_live
+OSM0330,Medical Unit,medical_supply,,,23.7357182,90.3803367,osm_live
+OSM0331,সোস্যাল ইসলামী ব্যাংক,bank,,,23.7351425,90.3849698,osm_live
+OSM0332,Transfast Money Exchange,bureau_de_change,,,23.735155,90.3849831,osm_live
+OSM0333,Bata,shoes,,,23.73517,90.3849983,osm_live
+OSM0334,Haji decoration,interior_decoration,"34, Mirpur Road",,23.7378697,90.3838162,osm_live
+OSM0335,আইসিবি ইসলামী ব্যাংক,bank,"33, Mirpur Road",,23.7374909,90.3839008,osm_live
+OSM0336,ডাচ-বাংলা ব্যাংক,atm,,,23.7376111,90.3838871,osm_live
+OSM0337,জনতা ব্যাংক,bank,"28, Mirpur Road",,23.7366275,90.3841087,osm_live
+OSM0339,অগ্রণী ব্যাংক,bank,"28, Mirpur Road",,23.7368074,90.3840896,osm_live
+OSM0340,Hotel Grand Glaxy pv Ltd,bar,"29, Mirpur Road",,23.7371544,90.3839951,osm_live
+OSM0341,TTC Mosque,place_of_worship,TTC Street,,23.7369986,90.3822697,osm_live
+OSM0342,ইবিএল,atm,,,23.737458,90.383926,osm_live
+OSM0343,আইসিবি ব্যাংক,bank,,,23.737645,90.3838823,osm_live
+OSM0344,Macfy Money exchenge,bureau_de_change,,,23.7370754,90.3840377,osm_live
+OSM0345,Sun City,tailor,"26/6, Mirpur Road",,23.736482,90.3843379,osm_live
+OSM0346,Sunraj Tailor,tailor,"26/5, Mirpur Road",,23.736461,90.3842493,osm_live
+OSM0348,rachona,clothes,,,23.7378406,90.3838209,osm_live
+OSM0351,Photocopi,yes,"28, Mirpur Road",,23.7367731,90.3841036,osm_live
+OSM0353,Dhaka shoej,yes,"28, Mirpur Road",,23.7369186,90.3841019,osm_live
+OSM0354,Dress House,clothes,"25, Mirpur Road",,23.7364822,90.384148,osm_live
+OSM0355,Cafeteria,cafe,"32/2, Mirpur Road",,23.7374807,90.3841774,osm_live
+OSM0356,Bnglar Tat Mela,clothes,"6, Mirpur Road",,23.7351159,90.3844778,osm_live
+OSM0357,Rajshahi Silk,clothes,"6, Mirpur Road",,23.7351399,90.3844745,osm_live
+OSM0359,PERFECT,clothes,"6, Mirpur Road",,23.7351616,90.3844676,osm_live
+OSM0360,PRIED,clothes,"6, Mirpur Road",,23.7351841,90.3844635,osm_live
+OSM0361,Khan Fashion,clothes,"6, Mirpur Road",,23.735356,90.3844162,osm_live
+OSM0362,Banglar Sharee Mela,clothes,,,23.7353362,90.384422,osm_live
+OSM0363,Barnil Butics,clothes,"6, Mirpur Road",,23.7353165,90.3844366,osm_live
+OSM0364,Ingight,clothes,"6, Mirpur Road",,23.7352957,90.3844336,osm_live
+OSM0365,Dhakai Jamdani,clothes,"6, Mirpur Road",,23.7352079,90.3844583,osm_live
+OSM0366,Bexi Fabrics,clothes,"6, Mirpur Road",,23.7352758,90.3844376,osm_live
+OSM0367,New Corner Fashion,clothes,"6, Mirpur Road",,23.7354929,90.3843777,osm_live
+OSM0368,Pritymony Fashion,clothes,"6, Mirpur Road",,23.735596,90.3844231,osm_live
+OSM0369,Rajdhani Fashion,clothes,"6, Mirpur Road",,23.7355707,90.3844913,osm_live
+OSM0370,Unique Fashion,clothes,"6, Mirpur Road",,23.7355201,90.384372,osm_live
+OSM0371,Lagon,clothes,"6, Mirpur Road",,23.735916,90.3844588,osm_live
+OSM0372,Dhaka Fashion,clothes,"6, Mirpur Road",,23.7359546,90.384408,osm_live
+OSM0373,Jimdal Fashion,clothes,"26/1, Mirpur Road",,23.7364605,90.3841468,osm_live
+OSM0374,N.ALI,clothes,"26/2, Mirpur Road",,23.7364434,90.384154,osm_live
+OSM0375,ওয়ান ব্যাংক লিমিটেড,atm,,,23.7496906,90.3686942,osm_live
+OSM0377,premium cafe,fast_food,"67, Satmasjid Road",,23.7496528,90.3686125,osm_live
+OSM0385,Academia,school,Road 9A,,23.7459545,90.3740852,osm_live
+OSM0386,ধানমন্ডি টিউটোরিয়াল স্কুল,school,"House 14, Dhanmondi Road 8",,23.7457963,90.3836331,osm_live
+OSM0387,Dental College Hostel,college,Mirpur Road,,23.7535736,90.3773025,osm_live
+OSM0389,Megh,clothes,Mirpur Road,,23.752322,90.377293,osm_live
+OSM0390,Anwar Khan Modern Medical College Hospital,hospital,"House no 17, Dhanmondi Road no 5",+88028614927,23.745296,90.3819718,osm_live
+OSM0392,কমার্শিয়াল ব্যাংক অব সিলন,bank,,,23.7442496,90.3845334,osm_live
+OSM0393,অগ্রনী ব্যাংক লিমিটেড,bank,,,23.7432508,90.3844677,osm_live
+OSM0396,টেলিটক বাংলাদেশ লিমিটেড,mobile_phone,,,23.7402951,90.382789,osm_live
+OSM0397,প্রিমিয়ার ব্যাংক লিমিটেড,bank,,,23.7468871,90.3811063,osm_live
+OSM0398,যমুনা ব্যাংক লিমিটেড,bank,,,23.743415,90.3822662,osm_live
+OSM0399,1 to 99,gift,,,23.7531218,90.3785182,osm_live
+OSM0402,Ahsania Taat ghor,clothes,"20, Road 7",,23.7455696,90.3849309,osm_live
+OSM0411,Madchef,restaurant,,,23.744539,90.3720707,osm_live
+OSM0412,Takeout,restaurant,,,23.7445882,90.3720443,osm_live
+OSM0413,Gelato,restaurant,,,23.744525,90.372092,osm_live
+OSM0414,Glazed,restaurant,,,23.7446035,90.3721018,osm_live
+OSM0416,Vertical Horizon entrance,college,,,23.7428364,90.3800544,osm_live
+OSM0422,Panshee,restaurant,Road 10,,23.7450829,90.3783531,osm_live
+OSM0423,The Mirror - A Taste Of Fusion Cuisine,restaurant,Road 8,,23.7455604,90.3795098,osm_live
+OSM0424,Lailaty,restaurant,,,23.7402052,90.3753157,osm_live
+OSM0427,Raian Powergen Parts International,energy,"1/A, Road 13",+88029142287;+8801715 850 212,23.7532027,90.3767867,osm_live
+OSM0428,BAC,university,Road 5,,23.7425383,90.3802432,osm_live
+OSM0429,bbq bangladesh,restaurant,,,23.7494814,90.3687532,osm_live
+OSM0430,rice & noodle dhanmondi,restaurant,,,23.7495082,90.3688241,osm_live
+OSM0431,Chatime,cafe,Dhanmondi 9/A,,23.7494913,90.3688256,osm_live
+OSM0432,Lalbag hotel,restaurant,,,23.7501867,90.3671191,osm_live
+OSM0433,Ancholik khana,restaurant,,,23.749558,90.3654854,osm_live
+OSM0434,Consultorio Dental,dentist,,,23.7495752,90.3653304,osm_live
+OSM0436,Pizza Inn,restaurant,,,23.7494474,90.3687728,osm_live
+OSM0437,oronno school,school,,,23.7468229,90.37668,osm_live
+OSM0438,Bachelor Point,fast_food,,,23.7467205,90.377478,osm_live
+OSM0439,Kabab Karigor & Soup,fast_food,,,23.7467102,90.3774509,osm_live
+OSM0441,"Easturn University , Building #4",university,"House #3, Dhanmondi Road 3",,23.7403809,90.3826913,osm_live
+OSM0442,Eastern university - main campus,university,,,23.7424335,90.380575,osm_live
+OSM0443,Univerty of london,university,,,23.7425096,90.3802129,osm_live
+OSM0444,"Easturn University , cse campus",university,,,23.7401271,90.3811822,osm_live
+OSM0445,Dhaka City college,college,,,23.7396837,90.3828522,osm_live
+OSM0446,popular hospital,hospital,,,23.7392113,90.3824483,osm_live
+OSM0447,Pizza Hut,restaurant,Dhanmondi Road 3,,23.7403304,90.3827009,osm_live
+OSM0448,Tokkhoshila Bidyalaya,school,"276, Jafrabad Road",,23.7509463,90.3653689,osm_live
+OSM0449,Chillox,restaurant,Jigatola Main Road,,23.739389,90.3752158,osm_live
+OSM0450,C mainor,restaurant,,,23.7393539,90.3751871,osm_live
+OSM0451,biye bari,restaurant,Jigatola Main Road,,23.7393831,90.3751744,osm_live
+OSM0452,trump cafe,restaurant,,,23.7393656,90.3751552,osm_live
+OSM0453,hot shef,restaurant,,,23.7445929,90.372124,osm_live
+OSM0454,glambers,restaurant,Jigatola Main Road,,23.7393612,90.3752063,osm_live
+OSM0455,d cafe,restaurant,75,,23.7417682,90.3737914,osm_live
+OSM0456,ghuha,restaurant,,,23.7445608,90.3721368,osm_live
+OSM0457,Vampire cafe,restaurant,,,23.7445783,90.3721687,osm_live
+OSM0458,vorta bari,restaurant,,,23.7442265,90.3730841,osm_live
+OSM0459,salior,yes,,,23.7446615,90.3721049,osm_live
+OSM0460,pasta state,restaurant,,,23.7441958,90.3730251,osm_live
+OSM0461,almas,yes,,,23.7441944,90.3730745,osm_live
+OSM0462,Bata,shoes,,,23.7390118,90.3753807,osm_live
+OSM0463,apex,yes,,,23.7382118,90.3757108,osm_live
+OSM0464,bfc,restaurant,,,23.7475842,90.370105,osm_live
+OSM0465,Dhaba,restaurant,"54, Road 10A",+880 1783-391571,23.7461357,90.3717706,osm_live
+OSM0466,Red flame,restaurant,,,23.7460719,90.3710652,osm_live
+OSM0467,ranna kabab,restaurant,,,23.7460416,90.3711787,osm_live
+OSM0468,Noir,yes,,,23.7460719,90.3711135,osm_live
+OSM0469,kakoli school,school,,,23.7475152,90.3734981,osm_live
+OSM0470,hangout,restaurant,,,23.7461014,90.371135,osm_live
+OSM0471,dark,restaurant,,,23.7459771,90.3710279,osm_live
+OSM0472,Karbooz,restaurant,,,23.7451168,90.3717787,osm_live
+OSM0473,Ibn Sina Hospital,hospital,,09610-009616,23.7452371,90.3723768,osm_live
+OSM0475,junior labotary,school,Road 10A,,23.7473694,90.3735929,osm_live
+OSM0476,Boi Bichitra,books,"30, Road 27 (New 16)",+8809678775511,23.7541303,90.3712883,osm_live
+OSM0477,Lazz Pharma,pharmacy,"63/C Lake Circus, পান্থপথ",+88029117839,23.7508535,90.3787285,osm_live
+OSM0478,Keya Travels & Tours,travel_agency,"7, Road 4","+880-2-9613030, +880-2-9614222",23.741333,90.382551,osm_live
+OSM0479,Xinxian Restaurant,restaurant,"7, Road 8",,23.7456583,90.3843222,osm_live
+OSM0482,Well Food,bakery,,+8801788-888448,23.7440578,90.3819381,osm_live
+OSM0483,King's Confectionery,bakery,"Shop No. 114 (Ground Floor, Dhanmondi Plaza, Road No. 6, R/A Mirpur Rd",+8801755662902,23.743738,90.3819466,osm_live
+OSM0484,Jamuna Bank Limited,bank,"House #17/A, Road 6",+8802-8613920,23.7432324,90.3820723,osm_live
+OSM0485,Grameen Check,clothes,,+8801733389077,23.747108,90.3809468,osm_live
+OSM0486,Kachalonka Restaurant And Kabab Garden,restaurant,"House No.67, Kalabagan 1st Lane",+8801822-191741,23.747294,90.3807723,osm_live
+OSM0487,Haji Briyani,restaurant,,,23.7474093,90.3806751,osm_live
+OSM0488,AlFresco,restaurant,,,23.7530269,90.3691849,osm_live
+OSM0489,CFC (California Fried Chicken),fast_food,,,23.7473259,90.380339,osm_live
+OSM0490,Cooper's Bakery Bangladesh,pastry,,,23.7468877,90.381053,osm_live
+OSM0491,Sumi's Hot Cake,pastry,,,23.7473087,90.3803658,osm_live
+OSM0492,Tasty Treat,fast_food,,,23.7472891,90.3803846,osm_live
+OSM0499,Bangladesh Eye Care Hospital,hospital,,,23.7389629,90.3744734,osm_live
+OSM0500,ইউনিভার্সিটি ওফ উইমেন ফেডারেশন কলেজ,college,,,23.743597,90.3828714,osm_live
+OSM0501,Dr. Malika College,college,,,23.7442494,90.3748481,osm_live
+OSM0658,IFIC Bank,bank,Dhanmondi 27,,23.7544088,90.3718989,osm_live
+OSM0659,Men's Mirror,beauty,,,23.7515516,90.3738691,osm_live
+OSM0660,ICB Islamic Bank,bank,Dhanmondhi 27,,23.7545907,90.3720853,osm_live
+OSM0661,27 Number,restaurant,,,23.7546269,90.3729269,osm_live
+OSM0662,EBL,atm,,,23.7545541,90.3720776,osm_live
+OSM0663,Modhumoti Bank Ltf,bank,,,23.7545637,90.3721059,osm_live
+OSM0664,Tokyo Express,restaurant,,,23.7544733,90.3729501,osm_live
+OSM0665,NRB Bank,atm,,,23.7545862,90.3721167,osm_live
+OSM0666,Bangladesh Eye Hospital,hospital,"Satmasjid Road, Block D, Lalmatia,, Mohammadpur",,23.7517112,90.3673685,osm_live
+OSM0667,Confide Dental Care,dentist,"67/B, Road 15/A, Dhanmondi, Dhanmondhi",,23.75076,90.3692271,osm_live
+OSM0668,IBN SINA HOSPITAL,hospital,"68, Road 15/A, Dhanmondi, Dhanmondhi",,23.7515285,90.3689752,osm_live
+OSM0669,Al Noor Pharmacy,pharmacy,"8/3, Khandar Lane, Sankar, Dhanmondi, Mohammadpur",,23.7518051,90.3667823,osm_live
+OSM0670,Seba Pharmacy And Departmental Store,pharmacy,"31/1, Jafrabad Road, Sankar, Mohammadpur",,23.751114,90.3661556,osm_live
+OSM0671,Cresent Dental Care,dentist,"280/1, Jafrabad Road, Sankar, Pochim Dhanmondi, Mohammadpur",,23.7511045,90.3657941,osm_live
+OSM0672,Popular Pharmacy,pharmacy,"281/1, Jafrabad Road, Sankar, Pochim Dhanmondi, Mohammadpur",,23.7512536,90.3656598,osm_live
+OSM0673,Allahor Dan Pharmacy,pharmacy,"338, Jafrabad Road, Sankar, Pochim Dhanmondi, Mohammadpur",,23.7516788,90.3651871,osm_live
+OSM0674,Talukdar Medicare,pharmacy,"7/4, Block C, Lalmatia, Mohammadpur",,23.7547764,90.3694112,osm_live
+OSM0675,New Life Pharma,pharmacy,"30/A, Old 16, New 27, Dhanmondhi",,23.7539323,90.3715213,osm_live
+OSM0676,Prostho Dental Implant Center,dentist,"43, Old 16, New 27, Dhanmondhi",,23.7527494,90.3700504,osm_live
+OSM0677,Opian Dental Care,dentist,"34, Road 11, Dhanmondhi",,23.7522824,90.3737398,osm_live
+OSM0678,Farabi General Hospital,clinic,"8/3, 14, Dhanmondhi",,23.7543571,90.3751354,osm_live
+OSM0679,Next Generation Dental Center,dentist,"12, 14, Dhanmondhi",,23.7541955,90.3746974,osm_live
+OSM0680,Dental Solution,clinic,"17, 13, Dhanmondhi",,23.753098,90.3747474,osm_live
+OSM0681,United Oro-Dental & Maxillofacia Surgery,dentist,"Mirpur Road, Dhanmondhi",,23.7539325,90.3764961,osm_live
+OSM0682,Ahmed Medicine,pharmacy,"Mirpur Road, Mohammadpur",,23.7518778,90.3780975,osm_live
+OSM0683,Avenue Dental Care,dentist,"4/4, Satmasjid Road, Block D, Lalmatia, Mohammadpur",,23.7525755,90.367095,osm_live
+OSM0684,Sukrabad High School,school,,,23.7530696,90.379441,osm_live
+OSM0685,AB Bank Atm,atm,,,23.7526744,90.3849061,osm_live
+OSM0686,Bank Asia,bank,Mirpur Road,,23.752326,90.3780272,osm_live
+OSM0687,West Raja Bazar Kacha Bazar,marketplace,,,23.7542714,90.3818545,osm_live
+OSM0688,Himu's Mekover Beauty Parlor,beauty,,,23.7530058,90.3797787,osm_live
+OSM0689,Pubali Bank Ltd,bank,,,23.7526482,90.3849933,osm_live
+OSM0690,Sukrabad Kacha Bazar,marketplace,,,23.7531589,90.3788567,osm_live
+OSM0692,Device & Gadget,mobile_phone,"Shop: 325, 3rd Floor, ধানমণ্ডি রোড ২",,23.7381278,90.3773395,osm_live
+OSM0693,Bismillah General Store,general,Hatembag Road,,23.7437695,90.3680061,osm_live
+OSM0694,Ma General Store,general,"109/5, Hatembag Road",+880-1884-699141,23.7433532,90.3681218,osm_live
+OSM0695,Russel Store,general,Hatembag Road,,23.7433468,90.3679934,osm_live
+OSM0696,OLI Tea Store,tea,Hatembag Road,,23.7438493,90.3680431,osm_live
+OSM0697,Janani General Store,general,"Hatembag Road, East Rayer Bazar",,23.7430358,90.368332,osm_live
+OSM0698,Baitul Afsar Jame Mosjid,place_of_worship,,,23.7430149,90.3691351,osm_live
+OSM0699,Ittyadi Store,general,,,23.7427197,90.3693389,osm_live
+OSM0700,ChayaNir,general,,,23.749647,90.3653428,osm_live
+OSM0701,EBL 365,atm,,,23.7405762,90.3746247,osm_live
+OSM0703,Ibn Sina Pharmacy,pharmacy,Dhanmondi 9/A,,23.7451064,90.3723605,osm_live
+OSM0704,Unimart,supermarket,,,23.7444443,90.3729384,osm_live
+OSM0705,Wellbeing Pharmacy,pharmacy,,+88 09611-677331,23.7443313,90.3729411,osm_live
+OSM0706,Islam Pharma,pharmacy,Dhanmondi 8/A,,23.7439807,90.3726065,osm_live
+OSM0715,bKash / Rocket Agent,money_transfer,,,23.7438905,90.3725011,osm_live
+OSM0716,Ashar Alo General Store,department_store,,,23.7441338,90.3754679,osm_live
+OSM0717,Departmental Store,department_store,,,23.7515499,90.3667327,osm_live
+OSM0718,Nilu Pharmacy,pharmacy,"75, Dhanmondi 5/A",01633-313131,23.7418113,90.3739908,osm_live
+OSM0719,Islami Bank Bangladesh PLC,bank,"75, Dhanmondi 5/A",+88 02-9125316,23.7418703,90.3739617,osm_live
+OSM0720,Meena Bazaar,supermarket,"House # 741, Dhomamondi 9/A",+88 01841-884884,23.744124,90.3725948,osm_live
+OSM0721,Lazz Pharma (Dhanmondi Branch),pharmacy,"House 45, Satmasjid Road",+88 01741-486695,23.7458524,90.3713838,osm_live
+OSM0723,Dhaka Enterprise,stationery,"1, Shukrabad, Opposite of Dhanmondi 32",+8801715497842,23.7522018,90.3779864,osm_live
+OSM0724,Aver Life,clothes,"Shop no: 228 (2nd Floor) Simanto Square (Rifles Square), Jigatola Main Road",,23.7381638,90.3769637,osm_live
+OSM0725,cycle,bicycle,,,23.7426855,90.3795877,osm_live
+OSM0726,Enayet Jame Masjid,place_of_worship,"House No- 36, Road No- 3, Dhanmondi R/A, Dhaka-1205",,23.7397561,90.3783084,osm_live
+OSM0729,Kikabe,restaurant,Jigatola Road,,23.7383175,90.3727929,osm_live
+OSM0730,Tsunami Restora,restaurant,Jigatola Road,,23.7383503,90.372834,osm_live
+OSM0731,Sonali Bazar,supermarket,Jigatola Road,,23.7382917,90.372746,osm_live
+OSM0732,Harun Pan Shop,yes,Jigatola Road,,23.7383599,90.3728959,osm_live
+OSM0733,Islam Store,yes,Jigatola Tenary Block,,23.7363939,90.3697896,osm_live
+OSM0734,Old Terrace,restaurant,"754, Satmasjid Road",+8801700914434,23.7474607,90.37016,osm_live
+OSM0737,Kabab Karigor,restaurant,,,23.7501444,90.3778683,osm_live
+OSM0739,IBBL ATM,atm,Jadober Golli,,23.7358401,90.3849789,osm_live
+OSM0740,Cafe Sun,restaurant,Monessor Road,,23.7390145,90.3674138,osm_live
+OSM0741,Jubayer Leather,leather,Monessor Road,,23.7384822,90.3677298,osm_live
+OSM0742,IFIC Bank,bank,Monessor Road,,23.7390277,90.3673686,osm_live
+OSM0743,NRBC Bank,bank,Monessor Road,,23.7390493,90.3673074,osm_live
+OSM0744,Razzaq Store,tea,Dhaka College,,23.7350934,90.3803484,osm_live
+OSM0745,Public Toilet,toilets,,,23.7435915,90.3796679,osm_live
+OSM0746,Mukti Cinema Hall,cinema,"151, শের-ই-বাংলা মূল সড়ক",,23.7449511,90.3655516,osm_live
+OSM0747,Western Money Union,money_lender,Satmasjid Road,,23.7380476,90.3758089,osm_live
+OSM0748,Simanta Bank Ltd,bank,Road 2,,23.738205,90.3763231,osm_live
+OSM0749,Standard Chartered Bank,bank,Satmasjid Rd,,23.7472429,90.3704029,osm_live
+OSM0750,Money Express,money_lender,Satmasjid Road,,23.7380393,90.3758387,osm_live
+OSM0751,Western Money Union,money_lender,Road 2,,23.7384158,90.3780641,osm_live
+OSM0752,Chittagong Confectionery,confectionery,Satmasjid Rd,,23.7474842,90.3702749,osm_live
+OSM0753,CP Five Star,fast_food,Jigatala,,23.7386933,90.3744603,osm_live
+OSM0754,EBL 365,atm,Road 2,,23.738343,90.3774644,osm_live
+OSM0755,Al Arabian,confectionery,Jigatala,,23.7387008,90.3745126,osm_live
+OSM0756,Bikrampur Mishtanno Bhandar,confectionery,Jigatala,,23.7387139,90.3745497,osm_live
+OSM0757,Apon Ghar,clothes,Satmasjid Road,,23.7383805,90.3756732,osm_live
+OSM0758,Aftab Restaurant,restaurant,Jigatala,,23.7388176,90.3747562,osm_live
+OSM0759,Aid Japan Pharmacy,pharmacy,Road 2,,23.7384133,90.3779866,osm_live
+OSM0760,Hi Tech,furniture,Road 2,,23.7383013,90.3776426,osm_live
+OSM0761,Hatil,furniture,Road 2,,23.7382861,90.377687,osm_live
+OSM0762,Banoful,confectionery,Jigatala,,23.73872,90.3746053,osm_live
+OSM0763,Ahmed Pharmacy,pharmacy,Jigatala,,23.7388436,90.3748345,osm_live
+OSM0764,Rain Medical,pharmacy,Satmasjid Road,,23.7384034,90.3756944,osm_live
+OSM0765,One Cafe,cafe,Road 2,,23.7383845,90.3779837,osm_live
+OSM0766,Hot Cake,pastry,Jigatala,,23.7387666,90.3746967,osm_live
+OSM0767,Stylen,clothes,Satmasjid Road,,23.7382199,90.3757353,osm_live
+OSM0768,Cosy Corner Saloon,hairdresser,Road 2,,23.7383242,90.3776795,osm_live
+OSM0769,Midland Bank,bank,Satmasjid Rd,,23.7477219,90.37012,osm_live
+OSM0770,Zaara's Beauty,beauty,Road 2,,23.7383695,90.3781364,osm_live
+OSM0771,Muslim Sweets,confectionery,Jigatala,,23.7387285,90.3745853,osm_live
+OSM0772,Fuji Photo Studio,photo_studio,Jigatala,,23.7387414,90.3746277,osm_live
+OSM0773,Modhuban,confectionery,Jigatala,,23.7388359,90.374785,osm_live
+OSM0774,Brac Bank ATM,atm,Road 2,,23.738353,90.3774574,osm_live
+OSM0775,Trust Bank,bank,Road 2,,23.7383677,90.3780713,osm_live
+OSM0776,Ros,confectionery,Satmasjid Road,,23.7381407,90.3760504,osm_live
+OSM0777,2.0 Cafe,cafe,Road 2,,23.7383457,90.3780149,osm_live
+OSM0778,Kornafuli Gift House,gift,Satmasjid Rd,,23.7475109,90.3702555,osm_live
+OSM0779,Dark,restaurant,Satmasjid Rd,,23.7459582,90.371236,osm_live
+OSM0780,Sbarro,fast_food,Satmasjid Rd,,23.7459318,90.3712699,osm_live
+OSM0781,Olympia Palace,restaurant,Satmasjid Rd,,23.7462997,90.3710199,osm_live
+OSM0782,EBL 365,atm,Satmasjid Rd,,23.7462495,90.3710553,osm_live
+OSM0783,Shawrma Kng,fast_food,Satmasjid Rd,,23.7460712,90.3711627,osm_live
+OSM0784,Handi,restaurant,Satmasjid Rd,,23.7459664,90.3711941,osm_live
+OSM0785,Eastern Bank,bank,Satmasjid Rd,,23.7462198,90.3710794,osm_live
+OSM0786,NRB Bank,bank,Satmasjid Rd,,23.7471799,90.3704801,osm_live
+OSM0787,Bangladesh Skill Development Institute,training,Mirpur Road,,23.753174,90.3768172,osm_live
+OSM0788,Saham Sweets & Foods,confectionery,Mirpur Road,,23.7532267,90.3768174,osm_live
+OSM0789,K Kraft,clothes,Mirpur Road,,23.7533471,90.3767833,osm_live
+OSM0790,Hot Hut,fast_food,Mirpur Road,,23.7532512,90.376793,osm_live
+OSM0791,7-Eleven,fast_food,Mirpur Road,,23.7531609,90.3768718,osm_live
+OSM0792,Nagardola,clothes,Mirpur Road,,23.7534176,90.3767193,osm_live
+OSM0793,Chetzy,cafe,Mirpur Road,,23.7534484,90.3767015,osm_live
+OSM0794,Artifacts,craft,Mirpur Road,,23.7537109,90.3765135,osm_live
+OSM0795,Boi Bazar,books,Mirpur Road,,23.7534887,90.3767136,osm_live
+OSM0796,Anjan's,clothes,Mirpur Road,,23.7535117,90.3766746,osm_live
+OSM0797,Coffee House,coffee,Mirpur Road,,23.7538046,90.3765002,osm_live
+OSM0798,Antique Lamp & Gift Shop,antiques,Mirpur Road,,23.7537503,90.3765095,osm_live
+OSM0799,Sonargaon,pastry,Mirpur Road,,23.7536859,90.3765857,osm_live
+OSM0800,SoulTime,cafe,Mirpur Road,,23.7547659,90.3759172,osm_live
+OSM0801,Memory,gift,Mirpur Road,,23.7537229,90.3765584,osm_live
+OSM0802,Khazana,jewelry,Mirpur Road,,23.7537379,90.3765374,osm_live
+OSM0803,DBBL,atm,Mirpur Road,,23.7548587,90.3758798,osm_live
+OSM0804,Youngkay,clothes,Mirpur Road,,23.753518,90.3766943,osm_live
+OSM0805,Saccha Store,yes,Mirpur Road,,23.7536778,90.3765617,osm_live
+OSM0806,Mirja Money Exchange,money_lender,Mirpur Road,,23.7537005,90.3765624,osm_live
+OSM0807,Monerekho Sareej,clothes,Mirpur Road,,23.7548146,90.375818,osm_live
+OSM0808,Safar Tours & Travels Ltd.,travel_agency,"75/A, 5/A",+8801325676703,23.7416261,90.3736285,osm_live
+OSM0809,Niramoy Medical Hall,pharmacy,"151, Sultangonge Rayar Bazar Road",,23.7448162,90.3655061,osm_live
+OSM0810,Oboshorprapto Govt. Employees Hospital,hospital,"75/A, 5/A",+880222240144,23.7415663,90.3733623,osm_live
+OSM0811,Usha Pharmacy,pharmacy,,+8801912010884,23.7447895,90.3651831,osm_live
+OSM0812,Khadija Pre-Cadet & High School,school,Hashem Khan Road,,23.7456637,90.3652333,osm_live
+OSM0813,Ahona Pharmacy,pharmacy,শের-ই-বাংলা মূল সড়ক,,23.744111,90.3661918,osm_live
+OSM0814,Manikgong Pharmacy,pharmacy,Road 8A - Rayer Bazar Staff Quarter Road,,23.7434523,90.3667781,osm_live
+OSM0815,Frends Restaurant,restaurant,,,23.7524431,90.3805121,osm_live
+OSM0816,KFC,fast_food,"55-2, Bir Uttam Qazi Nuruzzaman Sarak",,23.7526411,90.3809643,osm_live
+OSM0818,Oishi Beauty Parlours,beauty,,,23.7425648,90.3842333,osm_live
+OSM0819,Dr. Shariful Alam,doctors,,,23.7431413,90.3844182,osm_live
+OSM0820,University Women's Federation College,college,,,23.7441354,90.384808,osm_live
+OSM0821,Singer Pro,electronics,,,23.7440444,90.3847761,osm_live
+OSM0822,Thyroid Centre,clinic,,,23.7431621,90.3844252,osm_live
+OSM0823,Perfection,beauty,,,23.7440824,90.3847977,osm_live
+OSM0824,Dr. Md. Abu Hanif,doctors,,,23.7431544,90.384419,osm_live
+OSM0825,Prime Pharma,pharmacy,,,23.7431736,90.3844274,osm_live
+OSM0826,Hair Look Saloon,beauty,,,23.7441819,90.3848099,osm_live
+OSM0827,Sudin Dentals,dentist,,,23.7434611,90.3845342,osm_live
+OSM0828,New Mukta Clinic,clinic,,,23.7432843,90.3844725,osm_live
+OSM0829,DBBL,atm,,,23.7433551,90.384502,osm_live
+OSM0831,Khushal,clothes,,,23.7386098,90.3837935,osm_live
+OSM0832,Shiuli Store,clothes,,,23.7386562,90.3837972,osm_live
+OSM0833,Fuji Colour,photo_studio,,,23.7387602,90.384489,osm_live
+OSM0834,Jewel Vision,optician,,,23.7388051,90.3847943,osm_live
+OSM0835,Iva Garments,clothes,,,23.7386589,90.3838218,osm_live
+OSM0836,Bashati,clothes,,,23.7387415,90.3843473,osm_live
+OSM0837,Mr. baker,fast_food,,,23.7472224,90.3803563,osm_live
+OSM0838,Bombay Centre,clothes,,,23.7386885,90.3840233,osm_live
+OSM0839,Plus Point,clothes,,,23.7387742,90.3845854,osm_live
+OSM0840,Raymond,clothes,,,23.7387575,90.3846232,osm_live
+OSM0841,Bang,clothes,,,23.7388545,90.3849534,osm_live
+OSM0842,Central Optics,ticket,,,23.7515895,90.3792108,osm_live
+OSM0843,Moon Garments,clothes,,,23.738652,90.3838721,osm_live
+OSM0844,Bengal Money Exchange,money_lender,,,23.7387123,90.384308,osm_live
+OSM0845,Oversee Optics,optician,,,23.7386964,90.384061,osm_live
+OSM0846,Image Tech,electronics,,,23.7387715,90.384749,osm_live
+OSM0847,Gentle Park,clothes,,,23.7387609,90.3845327,osm_live
+OSM0848,Hanif Paribahan,ticket,,,23.7513747,90.3787984,osm_live
+OSM0849,Longla,clothes,,,23.738631,90.383793,osm_live
+OSM0850,Computer Source,computer,,,23.7387323,90.3842364,osm_live
+OSM0851,Zahir AC Market,marketplace,,,23.7386953,90.3846118,osm_live
+OSM0852,Easy,clothes,,,23.7387937,90.3848397,osm_live
+OSM0853,Joynal Square,clothes,,,23.738673,90.3839376,osm_live
+OSM0854,Eagle Paribahan,ticket,,,23.7514502,90.3790016,osm_live
+OSM0855,Vaghokul,fast_food,,,23.7473619,90.3802978,osm_live
+OSM0856,Chand & Sons,clothes,,,23.7385852,90.3837855,osm_live
+OSM0857,Malancha Restore,restaurant,,,23.7386789,90.3839804,osm_live
+OSM0858,Fit Elegance,clothes,,,23.7388016,90.3847097,osm_live
+OSM0859,Saint Martin Paribahan,ticket,,,23.7511875,90.3785644,osm_live
+OSM0860,View Sonic,clothes,,,23.7387357,90.3842747,osm_live
+OSM0861,S Alam Services,ticket,,,23.7512403,90.3786308,osm_live
+OSM0862,Sawdia Paribahan,ticket,,,23.7513041,90.3787186,osm_live
+OSM0863,Dutch Pharmacy,pharmacy,,,23.7505241,90.3788949,osm_live
+OSM0864,Central Optics,optician,,,23.7472697,90.3803359,osm_live
+OSM0865,Bisho Bichitra,books,,,23.7477169,90.380514,osm_live
+OSM0866,Kashem Drugs,pharmacy,,,23.7507604,90.3787738,osm_live
+OSM0867,Islami Bank Bangladesh Ltd,bank,,,23.7516533,90.3793305,osm_live
+OSM0868,Computer Link,computer,,,23.7513741,90.3789412,osm_live
+OSM0869,Asian Pharmacy,pharmacy,,,23.7508003,90.3787591,osm_live
+OSM0870,Atithi fast food,fast_food,,,23.7474012,90.38028,osm_live
+OSM0871,Tazrin Pharmacy,pharmacy,,,23.7509315,90.3786767,osm_live
+OSM0872,World Book Distribution center,books,,,23.7478012,90.3804712,osm_live
+OSM0873,Bagdad Paribahan,ticket,,,23.7515061,90.3791129,osm_live
+OSM0874,World Bichitra,books,,,23.7478663,90.3804531,osm_live
+OSM0875,Shyamoli Paribahan,ticket,,,23.7514692,90.378909,osm_live
+OSM0876,Boi Bichitra,books,,,23.7477683,90.3804868,osm_live
+OSM0877,Daffodil It Institute,research_institute,,,23.7509137,90.3787857,osm_live
+OSM0878,Scaff Money Exchange,money_transfer,,,23.7513876,90.3790472,osm_live
+OSM0879,Ramedy Pharma,pharmacy,,,23.7473111,90.3803249,osm_live
+OSM0880,Mehedi Panjabi,fabric,,,23.7378791,90.3838472,osm_live
+OSM0881,Soniya Handicraft,fabric,,,23.737891,90.3838648,osm_live
+OSM0882,Tasa Fashion,fabric,,,23.7378998,90.3838823,osm_live
+OSM0885,Bismillah Dry Laundry,laundry,"159/1, Sultangonge Rayar Bazar Road",,23.7447999,90.3653003,osm_live
+OSM0886,Sumon Telecom,general,"156/1, Sultangonge Rayar Bazar Road",+8801849396957,23.7447991,90.365426,osm_live
+OSM0887,"Scholastica Junior Campus Dhanmondi, Dhanmondi, Dhaka",school,,,23.744561,90.3731398,osm_live
+OSM0888,Prianka Community Center,community_centre,"52/1, Road 3A",,23.7403717,90.3755079,osm_live
+OSM0889,Kakoli Garments,clothes,,,23.7350037,90.3849389,osm_live
+OSM0890,New Ranna Ghor,restaurant,,,23.7473636,90.3807409,osm_live
+OSM0891,Comilla Hardware,hardware,,,23.7350102,90.3849465,osm_live
+OSM0892,Masum Bhai Confectionery,confectionery,,,23.7350189,90.3849381,osm_live
+OSM0893,New Sat Rong,clothes,,,23.7350147,90.3849554,osm_live
+OSM0894,Badhon Saj Ghor,yes,,,23.7350171,90.3849636,osm_live
+OSM0895,Hossain Traders,trade,,,23.7350208,90.3849617,osm_live
+OSM0896,Laksham Paint Shop,paint,,,23.7350291,90.3849574,osm_live
+OSM0897,Saat Rong,paint,,,23.7350238,90.3849699,osm_live
+OSM0898,Haque Bakery,bakery,,,23.7350294,90.3849779,osm_live
+OSM0899,Sara Video,video,,,23.735034,90.3849648,osm_live
+OSM0900,S R Garments,clothes,,,23.7350345,90.3849462,osm_live
+OSM0901,Haque Bakery,bakery,,,23.7350546,90.3849872,osm_live
+OSM0902,Kudos,fast_food,"1/5, Block D, Road No 7, Lalmatia",,23.7538968,90.3696124,osm_live
+OSM0903,Bhooter Bari,restaurant,,,23.7539432,90.3695795,osm_live
+OSM0904,Oasis,cafe,,,23.7539709,90.3695618,osm_live
+OSM0905,Pulp Fiction,fast_food,"7/8, Block D, Lalmatia",,23.7541553,90.3689247,osm_live
+OSM0906,Shaffle,cafe,9/11,,23.7546765,90.3680893,osm_live
+OSM0907,সুন্দরবন কুরিয়ার সার্ভিস,post_office,9/12,,23.7546968,90.3681996,osm_live
+OSM0908,Zaraa Neha Fashions Mall,clothes,1/3,,23.7535025,90.369238,osm_live
+OSM0909,Wasabi,restaurant,,,23.7496057,90.3665364,osm_live
+OSM0910,Global Islami Bank,bank,,,23.7396787,90.3709044,osm_live
+OSM0911,Dutch Bangla Bank,bank,,,23.739655,90.3707111,osm_live
+OSM0912,Jamuna Bank PLC,bank,,,23.7396505,90.3706846,osm_live
+OSM0913,Antai,massage,"Shop No-3054 (3rd Floor), Shimanto Shambhar Shopping Complex,, ধানমণ্ডি ২",+880 1777-525333,23.737798,90.3772168,osm_live
+OSM0914,Bikrampur Mishtannyo Vandar,bakery,Satmasjid Road,,23.7380998,90.3758892,osm_live
+OSM0915,Yum Yum,cafe,,,23.7382652,90.3757845,osm_live
+OSM0916,Food File,cafe,,,23.7383159,90.3757769,osm_live
+OSM0917,Coffee Lime,fast_food,,,23.7382856,90.3757628,osm_live
+OSM0918,Top Mart,clothes,Satmasjid Road,,23.7383172,90.3757579,osm_live
+OSM0919,NBRC Bank,bank,Satmasjid Road,,23.7383415,90.3757511,osm_live
+OSM0920,Burger King,fast_food,Satmasjid Road,,23.738371,90.3757403,osm_live
+OSM0921,Bank Asia,bank,Road 2A,,23.7385793,90.37562,osm_live
+OSM0923,Khana's,fast_food,"42, Satmasjid Road",01779587170,23.7386881,90.3755582,osm_live
+OSM0924,Slieez,fast_food,"42, Satmasjid Road",01771177877,23.7386881,90.3755582,osm_live
+OSM0925,Teriyaki,restaurant,"42, Satmasjid Road",01869796925,23.7387257,90.3755443,osm_live
+OSM0926,Cafe Appleliano,restaurant,"42, Satmasjid Road",01848359924,23.7386961,90.375516,osm_live
+OSM0927,Yoo MoMo,fast_food,"42, Satmasjid Road",01926667769,23.7387559,90.3755413,osm_live
+OSM0928,Transom Digital,electronics,"Green Akshay Plaza, Satmasjid Road",,23.7388317,90.3754966,osm_live
+OSM0929,Sultan's Dine,restaurant,"Green Akshay Plaza, Satmasjid Road",01903598626,23.7388644,90.3754719,osm_live
+OSM0930,Sarvoshrestha Medical Center,clinic,"Green Akshay Plaza, Satmasjid Road",01575790445,23.7389095,90.3754388,osm_live
+OSM0931,"BRAC Bank Limited, ATM Booth, Road No. 2, Dhaka",bank,,,23.7382732,90.3766031,osm_live
+OSM0932,"Popular Medical College, Road No. 2, Dhaka",hospital,,,23.7385647,90.3797506,osm_live
+OSM0933,"Dhanmondi Hawkers Market Masjid, Hawkers Market, Elephant Rd, Dhaka",place_of_worship,,,23.7353531,90.3847341,osm_live
+OSM0934,"Darul Ihsan University, Road No. 2, Dhaka",university,,,23.7392344,90.3819344,osm_live
+OSM0935,"Shimanto square Jame Mosque Roof top, Shimanto Square, Dhanmondi, Dhaka",place_of_worship,,,23.7381692,90.3774024,osm_live
+OSM0936,"Shimanto Convention Center, Community center, Road No. 2, Dhaka",conference_centre,,,23.7380307,90.3776137,osm_live
+OSM0937,"Baitul Mamur Jame Masjid, Science Laboratory, Mirpur Rd, Dhaka",place_of_worship,,,23.7386582,90.3838504,osm_live
+OSM0938,Minu's Kitchen,restaurant,"Green Akshay Plaza, Satmasjid Road",01973286697,23.7388798,90.3754682,osm_live
+OSM0939,Rine Medicas,medical_supply,"Green Akshay Plaza, Satmasjid Road",,23.7389808,90.3754335,osm_live
+OSM0940,Bata,shoes,"Green Akshay Plaza, Satmasjid Road",2961480,23.7389815,90.3754218,osm_live
+OSM0941,Ibn Sina Pharmacy,pharmacy,"58, Road 2/A",,23.7390708,90.3758902,osm_live
+OSM0942,Eastern Bank,bank,Beside Jigatola Bus Stand,+880 29144603,23.7395658,90.3756255,osm_live
+OSM0943,Arabian Khabsa Restaurant and Party Center,restaurant,Beside Jigatola Bus Stand,01977691994,23.7395734,90.375673,osm_live
+OSM0944,Cheers Cafe,cafe,"ANZ Square,53, Beside Jigatola Bus Stand",01967073322,23.7395835,90.3756445,osm_live
+OSM0945,"Unico Hospitals PLC, Green Rd, Dhaka",hospital,,,23.7442875,90.3849571,osm_live
+OSM0946,অগ্রণী ব্যাংক,bank,,,23.7436384,90.3845848,osm_live
+OSM0947,"Mukul Dental Clinic, Hospital, Green Square Road, Dhaka",hospital,,,23.7425856,90.3844798,osm_live
+OSM0948,"Dutch-Bangla Bank Limited (DBBL) - Fast Track, Green Rd, Dhaka",bank,,,23.7439387,90.3847477,osm_live
+OSM0949,"Labid hospital Dhanmondi, Hospital, Green Square Road, Dhaka",hospital,,,23.7421348,90.3846381,osm_live
+OSM0950,"Pubali Bank Limited, Private sector bank, Science Lab, Mirpur Rd, Dhaka",bank,,,23.7396929,90.3836057,osm_live
+OSM0951,Aftab Restaurant and Kabab,restaurant,"Keari Crescent Tower, Jigatola Bus Stand",,23.7392659,90.3753332,osm_live
+OSM0952,The International Driving School,school,,,23.748207,90.3803298,osm_live
+OSM0953,KolaBagan Bus stop,bus_station,,,23.7456423,90.3817927,osm_live
+OSM0954,Anwer Khan Modern Medical College Library,college,,,23.7455516,90.3825155,osm_live
+OSM0955,Baitus Salah Mosque,place_of_worship,,,23.7478097,90.3805647,osm_live
+OSM0956,Kalabagan East Bus Stop,place_of_worship,,,23.7475556,90.3805653,osm_live
+OSM0957,Dutch-Bangla Bank Limited - Fast track | ATM Booth,bank,,,23.750345,90.3790538,osm_live
+OSM0958,Daffodil Computers Limited,computer,,,23.7510088,90.3786955,osm_live
+OSM0959,Uttara Bank Limited | ATM Booth,bank,,,23.7498981,90.3792924,osm_live
+OSM0960,Maisha Hotel & Restaurant,restaurant,,,23.7506628,90.3789628,osm_live
+OSM0961,"Apollo Hospital Information Center, Health consultant",hospital,,,23.7522205,90.38069,osm_live
+OSM0962,North Dhanmondi Jame Masjid,place_of_worship,,,23.7522583,90.3831682,osm_live
+OSM0963,Lake View Jame Mosque,place_of_worship,,,23.7507826,90.3788515,osm_live
+OSM0964,Green Line Paribahan Bus Counter,ticket,,,23.7518093,90.3788771,osm_live
+OSM0965,Export Import Bank of Bangladesh Limited,bank,,,23.7528655,90.3810807,osm_live
+OSM0966,"Meena Bazar, Supermarket",supermarket,,,23.7451184,90.3719054,osm_live
+OSM0967,"Neuro ICU, IBN SINA HOSPITAL",hospital,,,23.7516289,90.3683414,osm_live
+OSM0968,Bangladesh Medical College Hospital,hospital,,,23.7504102,90.3698921,osm_live
+OSM0969,Sunnydale Junior School (I to V),school,,,23.7494146,90.3753101,osm_live
+OSM0970,Junior Laboratory High School,school,"House #38, Road 10A",,23.7476982,90.3735411,osm_live
+OSM0971,Anam Rangs Plaza Shopping mall,supermarket,,,23.7424713,90.3743091,osm_live
+OSM0972,Mastermind English Medium School (Junior Section),school,,,23.7536326,90.3763138,osm_live
+OSM0973,Sobhanbagh Masjid & Madrasah Complex,religion,,,23.7542284,90.3764086,osm_live
+OSM0974,Green Gems International School,school,,,23.7457999,90.3743591,osm_live
+OSM0975,"Chowdhury Community Center,",community_centre,,,23.7441492,90.3765747,osm_live
+OSM0976,Wisdom International School,school,,,23.7504214,90.3689192,osm_live
+OSM0977,Iranian International School,school,,,23.7394467,90.378692,osm_live
+OSM0978,Metro Shopping Mall,supermarket,,,23.7524866,90.3773894,osm_live
+OSM0979,Baitus Salam Mosque,place_of_worship,,,23.7407213,90.3727214,osm_live
+OSM0980,Sunnydale Middle School,school,,,23.7444354,90.3796563,osm_live
+OSM0981,Rainbow Heart Limited,hospital,,,23.7500283,90.3686964,osm_live
+OSM0982,State University of Bangladesh,university,,,23.7514104,90.3676121,osm_live
+OSM0983,"Al-Noor Eye Hospital, Hospita",hospital,,,23.7538137,90.3657717,osm_live
+OSM0984,State College of Health Sciences,college,,,23.7517196,90.3683672,osm_live
+OSM0985,"Nizams Shankar Plaza, Shopping mall",mall,,,23.7506661,90.3681554,osm_live
+OSM0986,West Dhanmondi Jaame Masjid,place_of_worship,,,23.7508273,90.3668121,osm_live
+OSM0987,Mohammadpur RAB Office,police,,,23.7532193,90.3657454,osm_live
+OSM0988,Square Hospitals,hospital,Pantha Path,,23.7530278,90.3817096,osm_live
+OSM0989,Dr Fazlul Haque Colorectal Hospital Ltd.,hospital,Shatmosjid Road,01755-697173,23.7436028,90.3728104,osm_live
+OSM0990,Earth House School,school,"91/4, Road 11A",+8801766686046,23.7465626,90.3707789,osm_live
+OSM0991,বেঙ্গল বই,books,"42, ধানমণ্ডি ১৬",,23.7533649,90.369946,osm_live
+OSM0992,Sugar & Spice,restaurant,"40, ধানমণ্ডি ১৬",+880 1705-525568,23.7534444,90.3702185,osm_live
+OSM0993,Mövenpick,ice_cream,,,23.7534442,90.3692041,osm_live
+OSM0994,Shahjalal Islami Bank,bank,সাতমসজিদ রোড,,23.7468177,90.371219,osm_live
+OSM0995,পিক এ বোল,restaurant,"774, সাতমসজিদ রোড",+880 1330-303055,23.7511295,90.3677541,osm_live
+OSM0996,Smashed Burgers,fast_food,"75, সাতমসজিদ রোড",,23.7512485,90.3676543,osm_live
+OSM0997,কস্তরী সুলতান,fast_food,"2, Road 13",,23.7537384,90.3766281,osm_live
+OSM0998,Dr. Lina's Skin & Aesthetics,doctors,"59, Delvistaa Fuljhuri, Level: 11, Satmasjid Road, Dhanmondi",,23.7485932,90.3697246,osm_live
+OSM0999,Brewd Harmony Coffee Roasters,restaurant,"Level 11, Chefmate Lounge",,23.7389085,90.378719,osm_live
+OSM1000,Sundora Beauty,perfumery,"750, সাতমসজিদ রোড",+880 1966-444455,23.7466933,90.3707436,osm_live
+OSM1001,ম্মোকি স্টেশন,restaurant,ধানমণ্ডি ২,,23.7386826,90.3775496,osm_live
+OSM1002,Smokey Station,restaurant,"38/1, ধানমণ্ডি ২",+880 1787-355020,23.7386826,90.3775496,osm_live
+OSM1003,Chamichi,cafe,"60, Dhanmondi 16",,23.7520391,90.3678534,osm_live
+OSM1004,ChefMate Lounge,food_court,"32, ধানমণ্ডি ২",,23.7389774,90.3787366,osm_live
+OSM1005,Chef Mate Lounge,food_court,ধানমণ্ডি ২,,23.7389774,90.3787366,osm_live
+OSM1006,Road House Music,music,"262, Road 10/A",01733-902226,23.7448994,90.3704593,osm_live
+OSM1007,Ibn Sina Cancer Diagnostic Center,hospital,"47, সাতমসজিদ রোড",01313-095910,23.7462349,90.371005,osm_live
+OSM1008,ইবনে সিনা ট্রাস্ট জামে মসজিদ,place_of_worship,"47, Dhanmondi 9/A",01844-141708,23.7452758,90.3725269,osm_live
+OSM1009,Buy Perfume in Bangladesh,perfumery,,+880 1511-435436;+880 1519-435436,23.7374303,90.3771051,osm_live
+OSM1010,Arabian Fast Food,fast_food,"35, ধানমণ্ডি ২",,23.7383154,90.3780124,osm_live
+OSM1011,বেলিসিমো,ice_cream,"35, ধানমণ্ডি ২",,23.7384365,90.3779756,osm_live
+OSM1012,Advanced Dental Care,dentist,"House 5/1, Road 4, Dhanmondi",,23.7413241,90.3832247,osm_live
+OSM1013,"ঢাকা আঞ্চলিক কেন্দ্র, বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়",university,,01742536259,23.7362636,90.3822976,osm_live
+OSM1014,ব্রাক ব্যাংক লিমিটেড,bank,"2, মিরপুর রোড",,23.746757,90.380682,osm_live
+OSM1015,BRAC Bank Limited,bank,"Bay's Park Heights, মিরপুর রোড",,23.7467481,90.3806822,osm_live
+OSM1016,Waterfall Restaurant and Convention Hall Dhanmondi,restaurant,"Plaza AR, Road No. 14",,23.7547307,90.3759043,osm_live
+OSM1017,Maple Leaf International School,school,"96, Road 11A",,23.7473459,90.3716073,osm_live
+OSM1019,Southeast Bank,bank,,,23.747632,90.3702939,osm_live
+OSM1021,vegetable cart,marketplace,,,23.742183,90.3801791,osm_live
+OSM1022,Imon Dry Cleaners (Laundry),laundry,,,23.7517446,90.3838491,osm_live
+OSM1026,Temporary Street Vendors,food_court,,,23.7521405,90.3831522,osm_live
+OSM1027,Street Vendors,food_court,,,23.7515447,90.3839371,osm_live
+OSM1028,Hardware Store,hardware,,,23.7519252,90.3840748,osm_live
+OSM1029,Amena Tailor,tailor,,,23.7518394,90.3840704,osm_live
+OSM1030,Groceries,yes,,,23.7518055,90.3840678,osm_live
+OSM1031,Monir Store (Groceries),yes,,,23.7516851,90.3838541,osm_live
+OSM1032,Purnima Saloon,hairdresser,,,23.7519038,90.3838555,osm_live
+OSM1033,Gomoti Pharmacy,pharmacy,,,23.7515907,90.3838199,osm_live
+OSM1034,Street Vendors,food_court,,,23.7520248,90.3840686,osm_live
+OSM1035,Print and Press,printer_ink,,,23.7520212,90.3842532,osm_live
+OSM1036,Street Vendors,food_court,,,23.7522215,90.3825297,osm_live
+OSM1037,Tea Stall,food_court,,,23.7521444,90.3825404,osm_live
+OSM1038,Bhai Bhai Store (Groceries),yes,,,23.7522033,90.3829045,osm_live
+OSM1039,Modina Store (Groceries),yes,,,23.7519051,90.3826464,osm_live
+OSM1040,Native Rights (Organic Food Store),yes,,,23.7518598,90.3826499,osm_live
+OSM1041,General Store,yes,,,23.7516881,90.3825721,osm_live
+OSM1042,Food Cart,food_court,,,23.7510046,90.382661,osm_live
+OSM1043,Bakery,bakery,,,23.7526237,90.3825115,osm_live
+OSM1044,Food Chain,restaurant,,,23.7526457,90.382701,osm_live
+OSM1045,Vendors (Fruits and Vegetables),food_court,,,23.7512145,90.3826032,osm_live
+OSM1046,Vendors,food_court,,,23.7509334,90.3818676,osm_live
+OSM1047,Vendors,food_court,,,23.7509087,90.3816781,osm_live
+OSM1048,Vendors,food_court,,,23.7510911,90.3816288,osm_live
+OSM1049,Vendors,food_court,,,23.7511225,90.3816364,osm_live
+OSM1050,Vendors (Fast Food),food_court,,,23.7510128,90.3827137,osm_live
+OSM1051,Ma Fatema General Store,yes,,,23.7512053,90.3828033,osm_live
+OSM1052,General Store,yes,,,23.7502634,90.3828423,osm_live
+OSM1053,Vendors (Banana),food_court,,,23.7487429,90.3833874,osm_live
+OSM1054,Vendors (Fruits and Vegetables),food_court,,,23.748744,90.3837538,osm_live
+OSM1055,Vendors,food_court,,,23.7487319,90.3840862,osm_live
+OSM1056,Vendors (Fruits and Vegetable),food_court,,,23.7487822,90.3844465,osm_live
+OSM1057,Nandini Tailor,tailor,,,23.7490597,90.3826241,osm_live
+OSM1066,General Store,yes,,,23.748692,90.3834151,osm_live
+OSM1067,General Store,yes,,,23.7487054,90.3836277,osm_live
+OSM1068,General Store,yes,,,23.7486883,90.3832948,osm_live
+OSM1069,Stationery  Store,yes,,,23.7488281,90.3828012,osm_live
+OSM1070,General Store,yes,,,23.7486758,90.382697,osm_live
+OSM1071,Bappi Electric House,hardware,,,23.748679,90.3830478,osm_live
+OSM1072,Baba Mayer Doa Bedding Store,yes,,,23.7486874,90.3831505,osm_live
+OSM1073,Hardware Store,yes,,,23.7488167,90.3842725,osm_live
+OSM1074,Hardware Store,yes,,,23.7488167,90.3842057,osm_live
+OSM1075,Hardware Store,yes,,,23.7498655,90.3845088,osm_live
+OSM1076,General Store,yes,,,23.7497864,90.3844946,osm_live
+OSM1077,Bakarah Ator Store,yes,,,23.7491826,90.3842226,osm_live
+OSM1078,Local Restaurant,yes,,,23.7490519,90.3842841,osm_live
+OSM1079,Saloon,hairdresser,,,23.7488221,90.3840037,osm_live
+OSM1080,Saloon,hairdresser,,,23.7487925,90.3839194,osm_live
+OSM1081,Print,printer_ink,,,23.748788,90.3838463,osm_live
+OSM1082,Restaurant,yes,,,23.7488271,90.384063,osm_live
+OSM1083,Restaurant,yes,,,23.7487887,90.3837651,osm_live
+OSM1084,Grocery Store,yes,,,23.7487095,90.3841693,osm_live
+OSM1085,Grocery Store,yes,,,23.7487079,90.3843533,osm_live
+OSM1086,Grocery Store,yes,,,23.7493392,90.3844588,osm_live
+OSM1087,Grocery Store,yes,,,23.7495329,90.3845402,osm_live
+OSM1088,Hardware Store,yes,,,23.7494826,90.3845399,osm_live
+OSM1089,Vendors (Fish),food_court,,,23.7499415,90.3844644,osm_live
+OSM1090,Vendors (Temporary Raw Market),food_court,,,23.749685,90.3844296,osm_live
+OSM1091,Vendors (Chicken),food_court,,,23.7495102,90.3843988,osm_live
+OSM1092,Vendors (street food),food_court,,,23.7501045,90.3842089,osm_live
+OSM1093,Vendors,food_court,,,23.7502066,90.3840709,osm_live
+OSM1097,Rickshaw/CNG Stand,taxi,,,23.7526655,90.3842193,osm_live
+OSM1098,Rickshaw Stand,taxi,,,23.7528038,90.3844236,osm_live
+OSM1099,CNG Stand,taxi,,,23.7525613,90.3848836,osm_live
+OSM1100,Rickshaw Stand,taxi,,,23.752198,90.382532,osm_live
+OSM1101,Street Vendors,food_court,,,23.7508611,90.3839234,osm_live
+OSM1102,Vendors (Vegetable and Fruits),food_court,,,23.7500095,90.384464,osm_live
+OSM1103,Vendors (Fruits and Vegetables),food_court,,,23.7487781,90.3835437,osm_live
+OSM1104,Grocery Store,yes,,,23.750969,90.3828351,osm_live
+OSM1105,EBL 365,atm,,,23.7453931,90.3814104,osm_live
+OSM1106,Shwapno,supermarket,,,23.7527006,90.3810928,osm_live
+OSM1107,KFC,fast_food,,,23.7429091,90.3827046,osm_live

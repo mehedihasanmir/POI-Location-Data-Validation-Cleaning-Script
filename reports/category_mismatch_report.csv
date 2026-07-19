@@ -1,0 +1,75 @@
+poi_id,name,tagged_category,expected_category
+OSM0008,Star Kabab,fast_food,restaurant
+OSM0018,Sobhanbagh Mosque,place_of_worship,mosque
+OSM0029,Bank Alfalah,supermarket,bank
+OSM0036,Sunami Restaurant,fast_food,restaurant
+OSM0045,Patam Restaurant,fast_food,restaurant
+OSM0050,Paschim Pantha Path jame Masjid,place_of_worship,mosque
+OSM0057,Al aksa mosque,place_of_worship,mosque
+OSM0058,Dhopapara Masjid,place_of_worship,mosque
+OSM0059,Tiw Mazar Mosque,place_of_worship,mosque
+OSM0072,Al Hera Jame Mosque,place_of_worship,mosque
+OSM0073,Bitul Aman Jam Mosque,place_of_worship,mosque
+OSM0080,Colony Mosque,place_of_worship,mosque
+OSM0083,B Type Mosque,place_of_worship,mosque
+OSM0085,Baitul Moharram Jarye Mosque,place_of_worship,mosque
+OSM0088,MSF Occupational Health Clinic,clinic,hospital
+OSM0090,Tannery Block Jame Mosque,place_of_worship,mosque
+OSM0092,Holy Flower Model College,college,school
+OSM0101,Sher-e-Bangla Road Jame Masjid,place_of_worship,mosque
+OSM0103,Masjide Baitul Mamur,place_of_worship,mosque
+OSM0118,Teacher's Training College,college,school
+OSM0127,Tennary Mor Shahi Masjid,place_of_worship,mosque
+OSM0131,Bangladesh Research Institute for Integrated Medicine,college,pharmacy
+OSM0142,Donbash Jama Mosque,place_of_worship,mosque
+OSM0143,Modhu Bazar Jama Mosque,place_of_worship,mosque
+OSM0144,Al-Madina Jama Mosque,place_of_worship,mosque
+OSM0145,Hatembag Jame Mosque,place_of_worship,mosque
+OSM0160,Sowatowgor Shahi Mosque,place_of_worship,mosque
+OSM0162,Royal Tannery Mosque,place_of_worship,mosque
+OSM0192,Modina Mosque,place_of_worship,mosque
+OSM0193,Baitus-salam Zome Mosque,place_of_worship,mosque
+OSM0194,Baitut-lalele Zome Mosque,place_of_worship,mosque
+OSM0200,Al aksa mosque,place_of_worship,mosque
+OSM0218,Cafe Droom,cafe,restaurant
+OSM0229,Clinic Cafe,restaurant,hospital
+OSM0232,Cricket Coaching School. (CCS),training,school
+OSM0263,Dutch Bangla Bank Ltd,atm,bank
+OSM0278,Southest Bank Lrd,atm,bank
+OSM0281,AB Bank Ltd,atm,bank
+OSM0284,Eric's Bistro cafe Gallery,cafe,restaurant
+OSM0294,Prime Bank Ltd,atm,bank
+OSM0314,Medona Dental Clinic,clinic,hospital
+OSM0341,TTC Mosque,place_of_worship,mosque
+OSM0355,Cafeteria,cafe,restaurant
+OSM0377,premium cafe,fast_food,restaurant
+OSM0387,Dental College Hostel,college,school
+OSM0439,Kabab Karigor & Soup,fast_food,restaurant
+OSM0445,Dhaka City college,college,school
+OSM0501,Dr. Malika College,college,school
+OSM0665,NRB Bank,atm,bank
+OSM0678,Farabi General Hospital,clinic,hospital
+OSM0685,AB Bank Atm,atm,bank
+OSM0726,Enayet Jame Masjid,place_of_worship,mosque
+OSM0739,IBBL ATM,atm,bank
+OSM0765,One Cafe,cafe,restaurant
+OSM0774,Brac Bank ATM,atm,bank
+OSM0777,2.0 Cafe,cafe,restaurant
+OSM0820,University Women's Federation College,college,school
+OSM0828,New Mukta Clinic,clinic,hospital
+OSM0932,"Popular Medical College, Road No. 2, Dhaka",hospital,school
+OSM0933,"Dhanmondi Hawkers Market Masjid, Hawkers Market, Elephant Rd, Dhaka",place_of_worship,mosque
+OSM0935,"Shimanto square Jame Mosque Roof top, Shimanto Square, Dhanmondi, Dhaka",place_of_worship,mosque
+OSM0937,"Baitul Mamur Jame Masjid, Science Laboratory, Mirpur Rd, Dhaka",place_of_worship,mosque
+OSM0944,Cheers Cafe,cafe,restaurant
+OSM0954,Anwer Khan Modern Medical College Library,college,school
+OSM0955,Baitus Salah Mosque,place_of_worship,mosque
+OSM0962,North Dhanmondi Jame Masjid,place_of_worship,mosque
+OSM0963,Lake View Jame Mosque,place_of_worship,mosque
+OSM0973,Sobhanbagh Masjid & Madrasah Complex,religion,mosque
+OSM0979,Baitus Salam Mosque,place_of_worship,mosque
+OSM0984,State College of Health Sciences,college,school
+OSM0986,West Dhanmondi Jaame Masjid,place_of_worship,mosque
+OSM1078,Local Restaurant,yes,restaurant
+OSM1082,Restaurant,yes,restaurant
+OSM1083,Restaurant,yes,restaurant

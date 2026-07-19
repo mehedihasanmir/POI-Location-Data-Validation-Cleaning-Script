@@ -1,0 +1,785 @@
+poi_id,name,missing_fields
+OSM0001,Graphic Art Institute,"address, phone"
+OSM0002,Bangladesh Eye Hospital,phone
+OSM0003,State University of Bangladesh,"address, phone"
+OSM0004,Four Season,"address, phone"
+OSM0007,Pizza Hut,"address, phone"
+OSM0008,Star Kabab,phone
+OSM0009,Stamford University,"address, phone"
+OSM0011,এইচএসবিসি,"address, phone"
+OSM0012,Stamford University,"address, phone"
+OSM0013,Darul Ihsan University,"address, phone"
+OSM0016,সোনালী ব্যাংক লিমিটেড,phone
+OSM0017,Dhanmondi Girls School,"address, phone"
+OSM0018,Sobhanbagh Mosque,"address, phone"
+OSM0019,Star Kabab Hotel & Restaurant,"address, phone"
+OSM0020,science lab police box,phone
+OSM0021,Metro shopping mall,"address, phone"
+OSM0025,Bachelor Point,"address, phone"
+OSM0026,Iranian International School,"address, phone"
+OSM0028,হংকং এন্ড সাংহাই ব্যাংকিং কর্পোরেশন (এইচএসবিসি),"address, phone"
+OSM0029,Bank Alfalah,phone
+OSM0030,Bangladesh Medical College Hospital,"address, phone"
+OSM0031,ইবনে সিনা হাসপাতাল,"address, phone"
+OSM0033,Shihab Departmental Store,"address, phone"
+OSM0034,Fortuna Fried Chicken,phone
+OSM0036,Sunami Restaurant,"address, phone"
+OSM0037,Walton Plaza,"address, phone"
+OSM0041,Meena Bazar head office,phone
+OSM0042,Coffee World,"address, phone"
+OSM0043,Bar-B-Q Tonite,"address, phone"
+OSM0044,Oxford International School,"address, phone"
+OSM0045,Patam Restaurant,"address, phone"
+OSM0046,ব্র্যাক ব্যাংক,"address, phone"
+OSM0047,Cream and Fudge Factory,"address, phone"
+OSM0048,স্ট্যান্ডার্ড চার্টার্ড ব্যাংক এটিএম,"address, phone"
+OSM0049,Punizz Kitchen,phone
+OSM0050,Paschim Pantha Path jame Masjid,"address, phone"
+OSM0051,Mutual Trust Bank Ltd.,"address, phone"
+OSM0052,American Burger,phone
+OSM0053,প্রিমিয়ার ব্যাংক,phone
+OSM0054,DHL,phone
+OSM0055,Ulta Voot,phone
+OSM0056,Longla Panjabi,"address, phone"
+OSM0057,Al aksa mosque,phone
+OSM0058,Dhopapara Masjid,"address, phone"
+OSM0059,Tiw Mazar Mosque,phone
+OSM0060,আইএফআইসি ব্যাংক লিমিটেড এটিএম,"address, phone"
+OSM0061,ডাচ-বাংলা ব্যাংক লিমিটেড এটিএম,"address, phone"
+OSM0062,শাহজালাল ইসলামী ব্যাংক লিমিটেড,"address, phone"
+OSM0063,Bangladesh Film Institute,"address, phone"
+OSM0064,উত্তরা ব্যাংক লিমিটেড,"address, phone"
+OSM0065,দ্যা সিটি ব্যাংক,"address, phone"
+OSM0066,Tehari Ghor,"address, phone"
+OSM0067,দ্যা সিটি ব্যাংক,"address, phone"
+OSM0068,বেঙ্গল ক্যাফে,phone
+OSM0069,সাউথইস্ট ব্যাংক,phone
+OSM0070,Uttora Bank LImited,"address, phone"
+OSM0071,Eastern University,"address, phone"
+OSM0072,Al Hera Jame Mosque,"address, phone"
+OSM0073,Bitul Aman Jam Mosque,"address, phone"
+OSM0074,BM Laboratory School,"address, phone"
+OSM0075,Darling Point Restaurant,"address, phone"
+OSM0076,ডাচ-বাংলা ব্যাংক,"address, phone"
+OSM0077,জনতা ব্যাংক,"address, phone"
+OSM0078,সোনালী ব্যাংক লিমিটেড,"address, phone"
+OSM0079,Baitun Nur Mosjid,"address, phone"
+OSM0080,Colony Mosque,"address, phone"
+OSM0081,RFL Best Buy Jigatala,"address, phone"
+OSM0082,Jahur Ali Manshion,"address, phone"
+OSM0083,B Type Mosque,"address, phone"
+OSM0084,B.M Laboratory School,"address, phone"
+OSM0085,Baitul Moharram Jarye Mosque,"address, phone"
+OSM0086,Ciam School,"address, phone"
+OSM0087,Europa International School,"address, phone"
+OSM0088,MSF Occupational Health Clinic,"address, phone"
+OSM0089,Ayesha Academy School,"address, phone"
+OSM0090,Tannery Block Jame Mosque,"address, phone"
+OSM0091,Tahfizul Koran Hafezia Madrassa,"address, phone"
+OSM0092,Holy Flower Model College,"address, phone"
+OSM0093,Mollick preparatory school / Singing Academy,"address, phone"
+OSM0094,Salec garden Bazar,"address, phone"
+OSM0095,Amin Medical Center,"address, phone"
+OSM0096,Community police post (DMP),"address, phone"
+OSM0097,jigatola Gabtola mosjid,"address, phone"
+OSM0098,CBT Police Fari,"address, phone"
+OSM0099,Moneshwar Government Primary School,"address, phone"
+OSM0100,Sufia Zinan International School,"address, phone"
+OSM0101,Sher-e-Bangla Road Jame Masjid,"address, phone"
+OSM0102,Sobuz Shakha Kindergarten,"address, phone"
+OSM0103,Masjide Baitul Mamur,"address, phone"
+OSM0104,Dominus Pizza,"address, phone"
+OSM0105,Eastern University,phone
+OSM0107,Ibn Sina Consultation & Diagonastic Center,phone
+OSM0108,Bata Showroom,"address, phone"
+OSM0109,Japan Bangladesh Friendship Hospital,"address, phone"
+OSM0110,Baburchi,"address, phone"
+OSM0111,Hi Fi Fashion Gallery,"address, phone"
+OSM0112,Korai Gost,"address, phone"
+OSM0113,"University Of Liberal Arts Bangladesh(ULAB), Campus A",phone
+OSM0118,Teacher's Training College,"address, phone"
+OSM0119,Dhanmondi Pharmacy,"address, phone"
+OSM0123,Bhuiya Adorsho High School,"address, phone"
+OSM0124,Eran Laboratory School,"address, phone"
+OSM0125,Future Generation International School,"address, phone"
+OSM0126,Ikra International School and College,"address, phone"
+OSM0127,Tennary Mor Shahi Masjid,"address, phone"
+OSM0128,সোনালী ব্যাংক,"address, phone"
+OSM0129,Tabin School,"address, phone"
+OSM0130,Abacus,"address, phone"
+OSM0131,Bangladesh Research Institute for Integrated Medicine,"address, phone"
+OSM0132,Broccolia,"address, phone"
+OSM0133,Community Development Library,"address, phone"
+OSM0134,ডাচ-বাংলা ব্যাংক লিমিটেড,"address, phone"
+OSM0135,এক্সিম ব্যাংক,"address, phone"
+OSM0136,ইস্টার্ন ব্যাংক,"address, phone"
+OSM0137,মিডল্যান্ড ব্যাংক,"address, phone"
+OSM0138,Naz-E-Noor Hospital,"address, phone"
+OSM0139,Olympia Palace,"address, phone"
+OSM0140,স্ট্যান্ডার্ড চার্টার্ড ব্যাংক,"address, phone"
+OSM0141,Darul Guran Academy,"address, phone"
+OSM0142,Donbash Jama Mosque,"address, phone"
+OSM0143,Modhu Bazar Jama Mosque,"address, phone"
+OSM0144,Al-Madina Jama Mosque,"address, phone"
+OSM0145,Hatembag Jame Mosque,phone
+OSM0146,Holy Rose School and College,"address, phone"
+OSM0147,জনতা ব্যাংক,"address, phone"
+OSM0148,Lotas National School,"address, phone"
+OSM0149,Mohammadia Aliya Madrasha,"address, phone"
+OSM0150,Razemosare National Primary School,"address, phone"
+OSM0151,Sinnomul Sonkary Prathomik Biddaloy School,"address, phone"
+OSM0152,West Dhanmondi Ideal School,"address, phone"
+OSM0154,Al Hossain Girls High School,"address, phone"
+OSM0155,West Dhanmondi Yusuf High School,"address, phone"
+OSM0156,Zigatola Model Government Primary School,"address, phone"
+OSM0157,Mosjidul Takwa,"address, phone"
+OSM0158,Jigatola Community Center,"address, phone"
+OSM0159,Omar Faruk Ideal Academy,"address, phone"
+OSM0160,Sowatowgor Shahi Mosque,"address, phone"
+OSM0162,Royal Tannery Mosque,"address, phone"
+OSM0163,Mollick Preparatory School,"address, phone"
+OSM0164,Safs London School and College,"address, phone"
+OSM0165,School of Development (SODA),"address, phone"
+OSM0166,University of Development (UODA),"address, phone"
+OSM0167,প্রাইম ব্যাংক,"address, phone"
+OSM0173,Baskin Robbins,"address, phone"
+OSM0174,H2O Longe,"address, phone"
+OSM0175,Cocktails,phone
+OSM0176,ইসলামী ব্যাংক বাংলাদেশ লিমিটেড এটিএম,phone
+OSM0177,Shampan,"address, phone"
+OSM0178,Dutch- Bangla Bank Limited,phone
+OSM0179,Sky Chef,"address, phone"
+OSM0180,আল-আরাফাহ ইসলামী ব্যাংক লিমিটেড,phone
+OSM0181,Jing Ling Restaurant,"address, phone"
+OSM0182,Cart Station,"address, phone"
+OSM0183,Kebab on 7,"address, phone"
+OSM0185,এবি ব্যাংক এটিএম বুথ,"address, phone"
+OSM0186,এবি ব্যাংক প্রশিক্ষণ একাডেমী,"address, phone"
+OSM0187,Asia Pacific University,"address, phone"
+OSM0188,Dutch Bomala Bank ATM Booth,"address, phone"
+OSM0189,Government Remeta Employee Hospital,"address, phone"
+OSM0190,Radient Rose School,"address, phone"
+OSM0192,Modina Mosque,"address, phone"
+OSM0193,Baitus-salam Zome Mosque,"address, phone"
+OSM0194,Baitut-lalele Zome Mosque,"address, phone"
+OSM0195,Hieare School,"address, phone"
+OSM0196,Just International School,"address, phone"
+OSM0197,Maszid-e-Ixbak-Noor,"address, phone"
+OSM0198,Shapla Academy,"address, phone"
+OSM0199,শ্রী কালী মন্দির,"address, phone"
+OSM0200,Al aksa mosque,"address, phone"
+OSM0201,Redient Rose School,"address, phone"
+OSM0202,Vertex Educare,"address, phone"
+OSM0203,জনতা ব্যাংক এটিএম,phone
+OSM0204,ডিবিবিএল ব্যাংক এটিএম,phone
+OSM0205,Plaza A.R.,phone
+OSM0206,Cash and Carry,"address, phone"
+OSM0207,Keyari plaza,phone
+OSM0208,sugondha community center,"address, phone"
+OSM0209,Kaisar sweet shop,phone
+OSM0210,NOIR,"address, phone"
+OSM0211,Vikrampur Mistanno Bhandar,phone
+OSM0212,University Of Development Alternative,phone
+OSM0213,dynamic Food Court,"address, phone"
+OSM0214,প্রাইম ব্যাংক চক্ষু হাসপাতাল,"address, phone"
+OSM0215,Bata,"address, phone"
+OSM0216,Cha Bar,"address, phone"
+OSM0217,Hello Dhamondi,"address, phone"
+OSM0218,Cafe Droom,"address, phone"
+OSM0219,CP Fried Chicken,"address, phone"
+OSM0220,Coopers,"address, phone"
+OSM0221,Nostalgic Cafe,"address, phone"
+OSM0222,Jaypur sweets,"address, phone"
+OSM0223,ন্যাশনাল ক্রেডিট কমার্স ব্যাংক লিমিটেড;Sadeeq Agro,phone
+OSM0224,Swarma KIng,"address, phone"
+OSM0225,The Lamp Cafe,"address, phone"
+OSM0226,Eden Multicare Hospital,"address, phone"
+OSM0227,ন্যাশনাল ব্যাংক লিমিটেড,"address, phone"
+OSM0228,Gloria Jeans Coffee,phone
+OSM0229,Clinic Cafe,phone
+OSM0230,Multiple Books Stores,"address, phone"
+OSM0231,Delhi Darbar,phone
+OSM0232,Cricket Coaching School. (CCS),"address, phone"
+OSM0233,Mama'r cha-er dokan.,phone
+OSM0234,Sunmoon Tailor,phone
+OSM0236,Comic Cafe,phone
+OSM0237,বেসিক ব্যাংক,"address, phone"
+OSM0238,Saima Pharmacy,phone
+OSM0239,Manna's photoshop,"address, phone"
+OSM0240,Fireflies,"address, phone"
+OSM0241,Al-amar,"address, phone"
+OSM0242,Crimson cup coffee shop,phone
+OSM0243,Farzana Shakil's,"address, phone"
+OSM0244,TBC,phone
+OSM0245,Infinity,"address, phone"
+OSM0246,Artisan,"address, phone"
+OSM0247,World University of Bangladesh,"address, phone"
+OSM0248,Thames Square,"address, phone"
+OSM0249,Chili's,phone
+OSM0250,Dining Room,phone
+OSM0251,Arong,phone
+OSM0252,Sports World,"address, phone"
+OSM0254,ওয়ান ব্যাংক,"address, phone"
+OSM0255,Royal Buffet,"address, phone"
+OSM0256,Almas General Store,"address, phone"
+OSM0257,Lion Cycle,"address, phone"
+OSM0258,Modern Physiotherapy,phone
+OSM0259,Kaisar Sweets,phone
+OSM0260,OHCL,phone
+OSM0261,Anowara Medical Services,phone
+OSM0262,Dutch Bangla Bank Ltd,"address, phone"
+OSM0263,Dutch Bangla Bank Ltd,"address, phone"
+OSM0265,Samad Tea Store,phone
+OSM0266,বিসিএসআইআর পূবালী ব্যাংক,phone
+OSM0267,BCSIR Service and Sales Centre,phone
+OSM0269,Shopno Super Shop,phone
+OSM0270,Standard Chartered,"address, phone"
+OSM0271,Flora Ltd,"address, phone"
+OSM0272,Lab Aid Pharma,"address, phone"
+OSM0273,Boishaki Bangla Restora,"address, phone"
+OSM0274,Western Grill,"address, phone"
+OSM0275,Motojogot Center,"address, phone"
+OSM0276,Panaco,"address, phone"
+OSM0278,Southest Bank Lrd,"address, phone"
+OSM0279,ইবিএল৩৬৫,phone
+OSM0280,Advanced Laser Cosmetic and Skin Care Center,"address, phone"
+OSM0281,AB Bank Ltd,"address, phone"
+OSM0282,The Barber Shop,"address, phone"
+OSM0283,Arabian Fast Food,"address, phone"
+OSM0284,Eric's Bistro cafe Gallery,"address, phone"
+OSM0285,Hong Kong Herbal and Beauty Parlar,"address, phone"
+OSM0286,World University,"address, phone"
+OSM0287,ব্যাংক এশিয়া,"address, phone"
+OSM0288,ব্যাংক এশিয়া,"address, phone"
+OSM0289,BFC,"address, phone"
+OSM0290,আইএফআইসি ব্যাংক,"address, phone"
+OSM0291,Adda Restaurant and Part Center,"address, phone"
+OSM0292,Oppo,"address, phone"
+OSM0293,Manyavar Bangladesh,"address, phone"
+OSM0294,Prime Bank Ltd,"address, phone"
+OSM0299,Usha Silk,"address, phone"
+OSM0300,Poroma Publication,"address, phone"
+OSM0301,Hakkani Publication,"address, phone"
+OSM0302,Prime Bank Ltd,phone
+OSM0303,Shahajalal Islami Bank Ltd,phone
+OSM0305,Symphony,"address, phone"
+OSM0306,Dr. Refayetullah Eye Care Center,"address, phone"
+OSM0307,Camera Museum,"address, phone"
+OSM0308,S S Mart,"address, phone"
+OSM0309,Islami Bank Bangladesh Ltd,"address, phone"
+OSM0310,Black Rose Tailors & Fabrics,"address, phone"
+OSM0311,Concord,phone
+OSM0312,Johny Print Sharee,phone
+OSM0313,Mohon Chand Grand Son,"address, phone"
+OSM0314,Medona Dental Clinic,"address, phone"
+OSM0315,Tangail Sharee Hut,phone
+OSM0316,Axis,phone
+OSM0317,Yellow,phone
+OSM0318,Zadob Ghosh Grand Son,"address, phone"
+OSM0319,Sun City Tailors,"address, phone"
+OSM0320,Uttora Bank Ltd,"address, phone"
+OSM0321,mirpur rood sopin senter,"address, phone"
+OSM0322,Masum Vai Confectionary,"address, phone"
+OSM0324,Mithali store,phone
+OSM0325,Pinon SHARI,phone
+OSM0326,Maya Video,"address, phone"
+OSM0327,Ajmir Electronics,"address, phone"
+OSM0328,Jony Print Sharee,"address, phone"
+OSM0329,Harun Pharmacy,"address, phone"
+OSM0330,Medical Unit,"address, phone"
+OSM0331,সোস্যাল ইসলামী ব্যাংক,"address, phone"
+OSM0332,Transfast Money Exchange,"address, phone"
+OSM0333,Bata,"address, phone"
+OSM0334,Haji decoration,phone
+OSM0335,আইসিবি ইসলামী ব্যাংক,phone
+OSM0336,ডাচ-বাংলা ব্যাংক,"address, phone"
+OSM0337,জনতা ব্যাংক,phone
+OSM0339,অগ্রণী ব্যাংক,phone
+OSM0340,Hotel Grand Glaxy pv Ltd,phone
+OSM0341,TTC Mosque,phone
+OSM0342,ইবিএল,"address, phone"
+OSM0343,আইসিবি ব্যাংক,"address, phone"
+OSM0344,Macfy Money exchenge,"address, phone"
+OSM0345,Sun City,phone
+OSM0346,Sunraj Tailor,phone
+OSM0348,rachona,"address, phone"
+OSM0351,Photocopi,phone
+OSM0353,Dhaka shoej,phone
+OSM0354,Dress House,phone
+OSM0355,Cafeteria,phone
+OSM0356,Bnglar Tat Mela,phone
+OSM0357,Rajshahi Silk,phone
+OSM0359,PERFECT,phone
+OSM0360,PRIED,phone
+OSM0361,Khan Fashion,phone
+OSM0362,Banglar Sharee Mela,"address, phone"
+OSM0363,Barnil Butics,phone
+OSM0364,Ingight,phone
+OSM0365,Dhakai Jamdani,phone
+OSM0366,Bexi Fabrics,phone
+OSM0367,New Corner Fashion,phone
+OSM0368,Pritymony Fashion,phone
+OSM0369,Rajdhani Fashion,phone
+OSM0370,Unique Fashion,phone
+OSM0371,Lagon,phone
+OSM0372,Dhaka Fashion,phone
+OSM0373,Jimdal Fashion,phone
+OSM0374,N.ALI,phone
+OSM0375,ওয়ান ব্যাংক লিমিটেড,"address, phone"
+OSM0377,premium cafe,phone
+OSM0385,Academia,phone
+OSM0386,ধানমন্ডি টিউটোরিয়াল স্কুল,phone
+OSM0387,Dental College Hostel,phone
+OSM0389,Megh,phone
+OSM0392,কমার্শিয়াল ব্যাংক অব সিলন,"address, phone"
+OSM0393,অগ্রনী ব্যাংক লিমিটেড,"address, phone"
+OSM0396,টেলিটক বাংলাদেশ লিমিটেড,"address, phone"
+OSM0397,প্রিমিয়ার ব্যাংক লিমিটেড,"address, phone"
+OSM0398,যমুনা ব্যাংক লিমিটেড,"address, phone"
+OSM0399,1 to 99,"address, phone"
+OSM0402,Ahsania Taat ghor,phone
+OSM0411,Madchef,"address, phone"
+OSM0412,Takeout,"address, phone"
+OSM0413,Gelato,"address, phone"
+OSM0414,Glazed,"address, phone"
+OSM0416,Vertical Horizon entrance,"address, phone"
+OSM0422,Panshee,phone
+OSM0423,The Mirror - A Taste Of Fusion Cuisine,phone
+OSM0424,Lailaty,"address, phone"
+OSM0428,BAC,phone
+OSM0429,bbq bangladesh,"address, phone"
+OSM0430,rice & noodle dhanmondi,"address, phone"
+OSM0431,Chatime,phone
+OSM0432,Lalbag hotel,"address, phone"
+OSM0433,Ancholik khana,"address, phone"
+OSM0434,Consultorio Dental,"address, phone"
+OSM0436,Pizza Inn,"address, phone"
+OSM0437,oronno school,"address, phone"
+OSM0438,Bachelor Point,"address, phone"
+OSM0439,Kabab Karigor & Soup,"address, phone"
+OSM0441,"Easturn University , Building #4",phone
+OSM0442,Eastern university - main campus,"address, phone"
+OSM0443,Univerty of london,"address, phone"
+OSM0444,"Easturn University , cse campus","address, phone"
+OSM0445,Dhaka City college,"address, phone"
+OSM0446,popular hospital,"address, phone"
+OSM0447,Pizza Hut,phone
+OSM0448,Tokkhoshila Bidyalaya,phone
+OSM0449,Chillox,phone
+OSM0450,C mainor,"address, phone"
+OSM0451,biye bari,phone
+OSM0452,trump cafe,"address, phone"
+OSM0453,hot shef,"address, phone"
+OSM0454,glambers,phone
+OSM0455,d cafe,phone
+OSM0456,ghuha,"address, phone"
+OSM0457,Vampire cafe,"address, phone"
+OSM0458,vorta bari,"address, phone"
+OSM0459,salior,"address, phone"
+OSM0460,pasta state,"address, phone"
+OSM0461,almas,"address, phone"
+OSM0462,Bata,"address, phone"
+OSM0463,apex,"address, phone"
+OSM0464,bfc,"address, phone"
+OSM0466,Red flame,"address, phone"
+OSM0467,ranna kabab,"address, phone"
+OSM0468,Noir,"address, phone"
+OSM0469,kakoli school,"address, phone"
+OSM0470,hangout,"address, phone"
+OSM0471,dark,"address, phone"
+OSM0472,Karbooz,"address, phone"
+OSM0473,Ibn Sina Hospital,address
+OSM0475,junior labotary,phone
+OSM0479,Xinxian Restaurant,phone
+OSM0482,Well Food,address
+OSM0485,Grameen Check,address
+OSM0487,Haji Briyani,"address, phone"
+OSM0488,AlFresco,"address, phone"
+OSM0489,CFC (California Fried Chicken),"address, phone"
+OSM0490,Cooper's Bakery Bangladesh,"address, phone"
+OSM0491,Sumi's Hot Cake,"address, phone"
+OSM0492,Tasty Treat,"address, phone"
+OSM0499,Bangladesh Eye Care Hospital,"address, phone"
+OSM0500,ইউনিভার্সিটি ওফ উইমেন ফেডারেশন কলেজ,"address, phone"
+OSM0501,Dr. Malika College,"address, phone"
+OSM0658,IFIC Bank,phone
+OSM0659,Men's Mirror,"address, phone"
+OSM0660,ICB Islamic Bank,phone
+OSM0661,27 Number,"address, phone"
+OSM0662,EBL,"address, phone"
+OSM0663,Modhumoti Bank Ltf,"address, phone"
+OSM0664,Tokyo Express,"address, phone"
+OSM0665,NRB Bank,"address, phone"
+OSM0666,Bangladesh Eye Hospital,phone
+OSM0667,Confide Dental Care,phone
+OSM0668,IBN SINA HOSPITAL,phone
+OSM0669,Al Noor Pharmacy,phone
+OSM0670,Seba Pharmacy And Departmental Store,phone
+OSM0671,Cresent Dental Care,phone
+OSM0672,Popular Pharmacy,phone
+OSM0673,Allahor Dan Pharmacy,phone
+OSM0674,Talukdar Medicare,phone
+OSM0675,New Life Pharma,phone
+OSM0676,Prostho Dental Implant Center,phone
+OSM0677,Opian Dental Care,phone
+OSM0678,Farabi General Hospital,phone
+OSM0679,Next Generation Dental Center,phone
+OSM0680,Dental Solution,phone
+OSM0681,United Oro-Dental & Maxillofacia Surgery,phone
+OSM0682,Ahmed Medicine,phone
+OSM0683,Avenue Dental Care,phone
+OSM0684,Sukrabad High School,"address, phone"
+OSM0685,AB Bank Atm,"address, phone"
+OSM0686,Bank Asia,phone
+OSM0687,West Raja Bazar Kacha Bazar,"address, phone"
+OSM0688,Himu's Mekover Beauty Parlor,"address, phone"
+OSM0689,Pubali Bank Ltd,"address, phone"
+OSM0690,Sukrabad Kacha Bazar,"address, phone"
+OSM0692,Device & Gadget,phone
+OSM0693,Bismillah General Store,phone
+OSM0695,Russel Store,phone
+OSM0696,OLI Tea Store,phone
+OSM0697,Janani General Store,phone
+OSM0698,Baitul Afsar Jame Mosjid,"address, phone"
+OSM0699,Ittyadi Store,"address, phone"
+OSM0700,ChayaNir,"address, phone"
+OSM0701,EBL 365,"address, phone"
+OSM0703,Ibn Sina Pharmacy,phone
+OSM0704,Unimart,"address, phone"
+OSM0705,Wellbeing Pharmacy,address
+OSM0706,Islam Pharma,phone
+OSM0715,bKash / Rocket Agent,"address, phone"
+OSM0716,Ashar Alo General Store,"address, phone"
+OSM0717,Departmental Store,"address, phone"
+OSM0724,Aver Life,phone
+OSM0725,cycle,"address, phone"
+OSM0726,Enayet Jame Masjid,phone
+OSM0729,Kikabe,phone
+OSM0730,Tsunami Restora,phone
+OSM0731,Sonali Bazar,phone
+OSM0732,Harun Pan Shop,phone
+OSM0733,Islam Store,phone
+OSM0737,Kabab Karigor,"address, phone"
+OSM0739,IBBL ATM,phone
+OSM0740,Cafe Sun,phone
+OSM0741,Jubayer Leather,phone
+OSM0742,IFIC Bank,phone
+OSM0743,NRBC Bank,phone
+OSM0744,Razzaq Store,phone
+OSM0745,Public Toilet,"address, phone"
+OSM0746,Mukti Cinema Hall,phone
+OSM0747,Western Money Union,phone
+OSM0748,Simanta Bank Ltd,phone
+OSM0749,Standard Chartered Bank,phone
+OSM0750,Money Express,phone
+OSM0751,Western Money Union,phone
+OSM0752,Chittagong Confectionery,phone
+OSM0753,CP Five Star,phone
+OSM0754,EBL 365,phone
+OSM0755,Al Arabian,phone
+OSM0756,Bikrampur Mishtanno Bhandar,phone
+OSM0757,Apon Ghar,phone
+OSM0758,Aftab Restaurant,phone
+OSM0759,Aid Japan Pharmacy,phone
+OSM0760,Hi Tech,phone
+OSM0761,Hatil,phone
+OSM0762,Banoful,phone
+OSM0763,Ahmed Pharmacy,phone
+OSM0764,Rain Medical,phone
+OSM0765,One Cafe,phone
+OSM0766,Hot Cake,phone
+OSM0767,Stylen,phone
+OSM0768,Cosy Corner Saloon,phone
+OSM0769,Midland Bank,phone
+OSM0770,Zaara's Beauty,phone
+OSM0771,Muslim Sweets,phone
+OSM0772,Fuji Photo Studio,phone
+OSM0773,Modhuban,phone
+OSM0774,Brac Bank ATM,phone
+OSM0775,Trust Bank,phone
+OSM0776,Ros,phone
+OSM0777,2.0 Cafe,phone
+OSM0778,Kornafuli Gift House,phone
+OSM0779,Dark,phone
+OSM0780,Sbarro,phone
+OSM0781,Olympia Palace,phone
+OSM0782,EBL 365,phone
+OSM0783,Shawrma Kng,phone
+OSM0784,Handi,phone
+OSM0785,Eastern Bank,phone
+OSM0786,NRB Bank,phone
+OSM0787,Bangladesh Skill Development Institute,phone
+OSM0788,Saham Sweets & Foods,phone
+OSM0789,K Kraft,phone
+OSM0790,Hot Hut,phone
+OSM0791,7-Eleven,phone
+OSM0792,Nagardola,phone
+OSM0793,Chetzy,phone
+OSM0794,Artifacts,phone
+OSM0795,Boi Bazar,phone
+OSM0796,Anjan's,phone
+OSM0797,Coffee House,phone
+OSM0798,Antique Lamp & Gift Shop,phone
+OSM0799,Sonargaon,phone
+OSM0800,SoulTime,phone
+OSM0801,Memory,phone
+OSM0802,Khazana,phone
+OSM0803,DBBL,phone
+OSM0804,Youngkay,phone
+OSM0805,Saccha Store,phone
+OSM0806,Mirja Money Exchange,phone
+OSM0807,Monerekho Sareej,phone
+OSM0809,Niramoy Medical Hall,phone
+OSM0811,Usha Pharmacy,address
+OSM0812,Khadija Pre-Cadet & High School,phone
+OSM0813,Ahona Pharmacy,phone
+OSM0814,Manikgong Pharmacy,phone
+OSM0815,Frends Restaurant,"address, phone"
+OSM0816,KFC,phone
+OSM0818,Oishi Beauty Parlours,"address, phone"
+OSM0819,Dr. Shariful Alam,"address, phone"
+OSM0820,University Women's Federation College,"address, phone"
+OSM0821,Singer Pro,"address, phone"
+OSM0822,Thyroid Centre,"address, phone"
+OSM0823,Perfection,"address, phone"
+OSM0824,Dr. Md. Abu Hanif,"address, phone"
+OSM0825,Prime Pharma,"address, phone"
+OSM0826,Hair Look Saloon,"address, phone"
+OSM0827,Sudin Dentals,"address, phone"
+OSM0828,New Mukta Clinic,"address, phone"
+OSM0829,DBBL,"address, phone"
+OSM0831,Khushal,"address, phone"
+OSM0832,Shiuli Store,"address, phone"
+OSM0833,Fuji Colour,"address, phone"
+OSM0834,Jewel Vision,"address, phone"
+OSM0835,Iva Garments,"address, phone"
+OSM0836,Bashati,"address, phone"
+OSM0837,Mr. baker,"address, phone"
+OSM0838,Bombay Centre,"address, phone"
+OSM0839,Plus Point,"address, phone"
+OSM0840,Raymond,"address, phone"
+OSM0841,Bang,"address, phone"
+OSM0842,Central Optics,"address, phone"
+OSM0843,Moon Garments,"address, phone"
+OSM0844,Bengal Money Exchange,"address, phone"
+OSM0845,Oversee Optics,"address, phone"
+OSM0846,Image Tech,"address, phone"
+OSM0847,Gentle Park,"address, phone"
+OSM0848,Hanif Paribahan,"address, phone"
+OSM0849,Longla,"address, phone"
+OSM0850,Computer Source,"address, phone"
+OSM0851,Zahir AC Market,"address, phone"
+OSM0852,Easy,"address, phone"
+OSM0853,Joynal Square,"address, phone"
+OSM0854,Eagle Paribahan,"address, phone"
+OSM0855,Vaghokul,"address, phone"
+OSM0856,Chand & Sons,"address, phone"
+OSM0857,Malancha Restore,"address, phone"
+OSM0858,Fit Elegance,"address, phone"
+OSM0859,Saint Martin Paribahan,"address, phone"
+OSM0860,View Sonic,"address, phone"
+OSM0861,S Alam Services,"address, phone"
+OSM0862,Sawdia Paribahan,"address, phone"
+OSM0863,Dutch Pharmacy,"address, phone"
+OSM0864,Central Optics,"address, phone"
+OSM0865,Bisho Bichitra,"address, phone"
+OSM0866,Kashem Drugs,"address, phone"
+OSM0867,Islami Bank Bangladesh Ltd,"address, phone"
+OSM0868,Computer Link,"address, phone"
+OSM0869,Asian Pharmacy,"address, phone"
+OSM0870,Atithi fast food,"address, phone"
+OSM0871,Tazrin Pharmacy,"address, phone"
+OSM0872,World Book Distribution center,"address, phone"
+OSM0873,Bagdad Paribahan,"address, phone"
+OSM0874,World Bichitra,"address, phone"
+OSM0875,Shyamoli Paribahan,"address, phone"
+OSM0876,Boi Bichitra,"address, phone"
+OSM0877,Daffodil It Institute,"address, phone"
+OSM0878,Scaff Money Exchange,"address, phone"
+OSM0879,Ramedy Pharma,"address, phone"
+OSM0880,Mehedi Panjabi,"address, phone"
+OSM0881,Soniya Handicraft,"address, phone"
+OSM0882,Tasa Fashion,"address, phone"
+OSM0885,Bismillah Dry Laundry,phone
+OSM0887,"Scholastica Junior Campus Dhanmondi, Dhanmondi, Dhaka","address, phone"
+OSM0888,Prianka Community Center,phone
+OSM0889,Kakoli Garments,"address, phone"
+OSM0890,New Ranna Ghor,"address, phone"
+OSM0891,Comilla Hardware,"address, phone"
+OSM0892,Masum Bhai Confectionery,"address, phone"
+OSM0893,New Sat Rong,"address, phone"
+OSM0894,Badhon Saj Ghor,"address, phone"
+OSM0895,Hossain Traders,"address, phone"
+OSM0896,Laksham Paint Shop,"address, phone"
+OSM0897,Saat Rong,"address, phone"
+OSM0898,Haque Bakery,"address, phone"
+OSM0899,Sara Video,"address, phone"
+OSM0900,S R Garments,"address, phone"
+OSM0901,Haque Bakery,"address, phone"
+OSM0902,Kudos,phone
+OSM0903,Bhooter Bari,"address, phone"
+OSM0904,Oasis,"address, phone"
+OSM0905,Pulp Fiction,phone
+OSM0906,Shaffle,phone
+OSM0907,সুন্দরবন কুরিয়ার সার্ভিস,phone
+OSM0908,Zaraa Neha Fashions Mall,phone
+OSM0909,Wasabi,"address, phone"
+OSM0910,Global Islami Bank,"address, phone"
+OSM0911,Dutch Bangla Bank,"address, phone"
+OSM0912,Jamuna Bank PLC,"address, phone"
+OSM0914,Bikrampur Mishtannyo Vandar,phone
+OSM0915,Yum Yum,"address, phone"
+OSM0916,Food File,"address, phone"
+OSM0917,Coffee Lime,"address, phone"
+OSM0918,Top Mart,phone
+OSM0919,NBRC Bank,phone
+OSM0920,Burger King,phone
+OSM0921,Bank Asia,phone
+OSM0928,Transom Digital,phone
+OSM0931,"BRAC Bank Limited, ATM Booth, Road No. 2, Dhaka","address, phone"
+OSM0932,"Popular Medical College, Road No. 2, Dhaka","address, phone"
+OSM0933,"Dhanmondi Hawkers Market Masjid, Hawkers Market, Elephant Rd, Dhaka","address, phone"
+OSM0934,"Darul Ihsan University, Road No. 2, Dhaka","address, phone"
+OSM0935,"Shimanto square Jame Mosque Roof top, Shimanto Square, Dhanmondi, Dhaka","address, phone"
+OSM0936,"Shimanto Convention Center, Community center, Road No. 2, Dhaka","address, phone"
+OSM0937,"Baitul Mamur Jame Masjid, Science Laboratory, Mirpur Rd, Dhaka","address, phone"
+OSM0939,Rine Medicas,phone
+OSM0941,Ibn Sina Pharmacy,phone
+OSM0945,"Unico Hospitals PLC, Green Rd, Dhaka","address, phone"
+OSM0946,অগ্রণী ব্যাংক,"address, phone"
+OSM0947,"Mukul Dental Clinic, Hospital, Green Square Road, Dhaka","address, phone"
+OSM0948,"Dutch-Bangla Bank Limited (DBBL) - Fast Track, Green Rd, Dhaka","address, phone"
+OSM0949,"Labid hospital Dhanmondi, Hospital, Green Square Road, Dhaka","address, phone"
+OSM0950,"Pubali Bank Limited, Private sector bank, Science Lab, Mirpur Rd, Dhaka","address, phone"
+OSM0951,Aftab Restaurant and Kabab,phone
+OSM0952,The International Driving School,"address, phone"
+OSM0953,KolaBagan Bus stop,"address, phone"
+OSM0954,Anwer Khan Modern Medical College Library,"address, phone"
+OSM0955,Baitus Salah Mosque,"address, phone"
+OSM0956,Kalabagan East Bus Stop,"address, phone"
+OSM0957,Dutch-Bangla Bank Limited - Fast track | ATM Booth,"address, phone"
+OSM0958,Daffodil Computers Limited,"address, phone"
+OSM0959,Uttara Bank Limited | ATM Booth,"address, phone"
+OSM0960,Maisha Hotel & Restaurant,"address, phone"
+OSM0961,"Apollo Hospital Information Center, Health consultant","address, phone"
+OSM0962,North Dhanmondi Jame Masjid,"address, phone"
+OSM0963,Lake View Jame Mosque,"address, phone"
+OSM0964,Green Line Paribahan Bus Counter,"address, phone"
+OSM0965,Export Import Bank of Bangladesh Limited,"address, phone"
+OSM0966,"Meena Bazar, Supermarket","address, phone"
+OSM0967,"Neuro ICU, IBN SINA HOSPITAL","address, phone"
+OSM0968,Bangladesh Medical College Hospital,"address, phone"
+OSM0969,Sunnydale Junior School (I to V),"address, phone"
+OSM0970,Junior Laboratory High School,phone
+OSM0971,Anam Rangs Plaza Shopping mall,"address, phone"
+OSM0972,Mastermind English Medium School (Junior Section),"address, phone"
+OSM0973,Sobhanbagh Masjid & Madrasah Complex,"address, phone"
+OSM0974,Green Gems International School,"address, phone"
+OSM0975,"Chowdhury Community Center,","address, phone"
+OSM0976,Wisdom International School,"address, phone"
+OSM0977,Iranian International School,"address, phone"
+OSM0978,Metro Shopping Mall,"address, phone"
+OSM0979,Baitus Salam Mosque,"address, phone"
+OSM0980,Sunnydale Middle School,"address, phone"
+OSM0981,Rainbow Heart Limited,"address, phone"
+OSM0982,State University of Bangladesh,"address, phone"
+OSM0983,"Al-Noor Eye Hospital, Hospita","address, phone"
+OSM0984,State College of Health Sciences,"address, phone"
+OSM0985,"Nizams Shankar Plaza, Shopping mall","address, phone"
+OSM0986,West Dhanmondi Jaame Masjid,"address, phone"
+OSM0987,Mohammadpur RAB Office,"address, phone"
+OSM0988,Square Hospitals,phone
+OSM0991,বেঙ্গল বই,phone
+OSM0993,Mövenpick,"address, phone"
+OSM0994,Shahjalal Islami Bank,phone
+OSM0996,Smashed Burgers,phone
+OSM0997,কস্তরী সুলতান,phone
+OSM0998,Dr. Lina's Skin & Aesthetics,phone
+OSM0999,Brewd Harmony Coffee Roasters,phone
+OSM1001,ম্মোকি স্টেশন,phone
+OSM1003,Chamichi,phone
+OSM1004,ChefMate Lounge,phone
+OSM1005,Chef Mate Lounge,phone
+OSM1009,Buy Perfume in Bangladesh,address
+OSM1010,Arabian Fast Food,phone
+OSM1011,বেলিসিমো,phone
+OSM1012,Advanced Dental Care,phone
+OSM1013,"ঢাকা আঞ্চলিক কেন্দ্র, বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়",address
+OSM1014,ব্রাক ব্যাংক লিমিটেড,phone
+OSM1015,BRAC Bank Limited,phone
+OSM1016,Waterfall Restaurant and Convention Hall Dhanmondi,phone
+OSM1017,Maple Leaf International School,phone
+OSM1019,Southeast Bank,"address, phone"
+OSM1021,vegetable cart,"address, phone"
+OSM1022,Imon Dry Cleaners (Laundry),"address, phone"
+OSM1026,Temporary Street Vendors,"address, phone"
+OSM1027,Street Vendors,"address, phone"
+OSM1028,Hardware Store,"address, phone"
+OSM1029,Amena Tailor,"address, phone"
+OSM1030,Groceries,"address, phone"
+OSM1031,Monir Store (Groceries),"address, phone"
+OSM1032,Purnima Saloon,"address, phone"
+OSM1033,Gomoti Pharmacy,"address, phone"
+OSM1034,Street Vendors,"address, phone"
+OSM1035,Print and Press,"address, phone"
+OSM1036,Street Vendors,"address, phone"
+OSM1037,Tea Stall,"address, phone"
+OSM1038,Bhai Bhai Store (Groceries),"address, phone"
+OSM1039,Modina Store (Groceries),"address, phone"
+OSM1040,Native Rights (Organic Food Store),"address, phone"
+OSM1041,General Store,"address, phone"
+OSM1042,Food Cart,"address, phone"
+OSM1043,Bakery,"address, phone"
+OSM1044,Food Chain,"address, phone"
+OSM1045,Vendors (Fruits and Vegetables),"address, phone"
+OSM1046,Vendors,"address, phone"
+OSM1047,Vendors,"address, phone"
+OSM1048,Vendors,"address, phone"
+OSM1049,Vendors,"address, phone"
+OSM1050,Vendors (Fast Food),"address, phone"
+OSM1051,Ma Fatema General Store,"address, phone"
+OSM1052,General Store,"address, phone"
+OSM1053,Vendors (Banana),"address, phone"
+OSM1054,Vendors (Fruits and Vegetables),"address, phone"
+OSM1055,Vendors,"address, phone"
+OSM1056,Vendors (Fruits and Vegetable),"address, phone"
+OSM1057,Nandini Tailor,"address, phone"
+OSM1066,General Store,"address, phone"
+OSM1067,General Store,"address, phone"
+OSM1068,General Store,"address, phone"
+OSM1069,Stationery  Store,"address, phone"
+OSM1070,General Store,"address, phone"
+OSM1071,Bappi Electric House,"address, phone"
+OSM1072,Baba Mayer Doa Bedding Store,"address, phone"
+OSM1073,Hardware Store,"address, phone"
+OSM1074,Hardware Store,"address, phone"
+OSM1075,Hardware Store,"address, phone"
+OSM1076,General Store,"address, phone"
+OSM1077,Bakarah Ator Store,"address, phone"
+OSM1078,Local Restaurant,"address, phone"
+OSM1079,Saloon,"address, phone"
+OSM1080,Saloon,"address, phone"
+OSM1081,Print,"address, phone"
+OSM1082,Restaurant,"address, phone"
+OSM1083,Restaurant,"address, phone"
+OSM1084,Grocery Store,"address, phone"
+OSM1085,Grocery Store,"address, phone"
+OSM1086,Grocery Store,"address, phone"
+OSM1087,Grocery Store,"address, phone"
+OSM1088,Hardware Store,"address, phone"
+OSM1089,Vendors (Fish),"address, phone"
+OSM1090,Vendors (Temporary Raw Market),"address, phone"
+OSM1091,Vendors (Chicken),"address, phone"
+OSM1092,Vendors (street food),"address, phone"
+OSM1093,Vendors,"address, phone"
+OSM1097,Rickshaw/CNG Stand,"address, phone"
+OSM1098,Rickshaw Stand,"address, phone"
+OSM1099,CNG Stand,"address, phone"
+OSM1100,Rickshaw Stand,"address, phone"
+OSM1101,Street Vendors,"address, phone"
+OSM1102,Vendors (Vegetable and Fruits),"address, phone"
+OSM1103,Vendors (Fruits and Vegetables),"address, phone"
+OSM1104,Grocery Store,"address, phone"
+OSM1105,EBL 365,"address, phone"
+OSM1106,Shwapno,"address, phone"
+OSM1107,KFC,"address, phone"
