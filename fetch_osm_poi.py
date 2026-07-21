@@ -2,7 +2,7 @@
 fetch_osm_poi.py
 -----------------
 Pulls real POI data from OpenStreetMap via the Overpass API for a given
-bounding box and saves it in the same schema used by poi_qa.py.
+bounding box and saves it in the same schema used by the QA pipeline.
 
 Run this locally (it needs internet access to overpass-api.de, which is not
 reachable from this sandboxed environment):

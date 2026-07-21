@@ -5,6 +5,8 @@ of work a **Data Acquisition Engineer** does at a map/POI company: collecting
 ground-level POI data, validating it, and automating cleanup so bad data
 doesn't reach the map.
 
+![POI Data QA & Validation](POI%20Data%20QA%20%26%20Validation.gif)
+
 ## Why this project
 
 Field-collected POI data is messy in predictable ways:
@@ -21,17 +23,17 @@ manual review of every record.
 
 ## What it does
 
-`poi_qa.py` runs four checks over a raw POI CSV:
+The notebook and Streamlit app run four checks over a raw POI CSV:
 
 | Check | Method |
 |---|---|
 | **Duplicate detection** | GPS proximity (Haversine distance, <60m) combined with fuzzy name matching after stripping generic words (bank, road, dhanmondi, etc.) so it doesn't confuse two different banks on the same road for duplicates |
 | **Missing fields** | Flags records missing address, phone, or category |
 | **Naming/address standardization** | Normalizes abbreviations (Rd. → Road, R/A → Residential Area) and flags any record that changes, so inconsistent entries can be fixed at the source |
-| **Category mismatch** | Keyword-based check — if a POI's name contains "Hospital" but it's tagged `restaurant`, it gets flagged |
+| **Category mismatch** | Keyword-based check, if a POI's name contains "Hospital" but it's tagged `restaurant`, it gets flagged |
 
 It then produces a deduplicated, standardized cleaned dataset and a QA
-summary report with error rates — the kind of report a field QA lead would
+summary report with error rates the kind of report a field QA lead would
 hand to their manager.
 
 ## Results on the sample dataset
@@ -49,7 +51,7 @@ common field-collection errors):
 **35 clean records** remained after deduplication (12.5% reduction from
 merging duplicate entries).
 
-Full report: [`reports/qa_summary.md`](reports/qa_summary.md)
+Full report: [`qa_summary.md`](qa_summary.md)
 
 ## Project structure
 
@@ -62,10 +64,11 @@ poi-qa-project/
 │   ├── duplicates_report.csv
 │   ├── missing_fields_report.csv
 │   ├── naming_inconsistency_report.csv
-│   ├── category_mismatch_report.csv
-│   └── qa_summary.md
-├── poi_qa.py                       # main QA pipeline
+│   └── category_mismatch_report.csv
+├── poi_qa.ipynb                    # notebook workflow for the QA pipeline
+├── app.py                          # simple Streamlit UI for running the QA checks
 ├── fetch_osm_poi.py                # pulls live POI data from OpenStreetMap (Overpass API)
+├── POI Data QA & Validation.gif    # project demo preview
 └── README.md
 ```
 
@@ -73,8 +76,10 @@ poi-qa-project/
 
 ```bash
 pip install pandas
-python poi_qa.py --input data/dhanmondi_poi_raw.csv
+python -m streamlit run app.py
 ```
+
+To run the notebook version, open `poi_qa.ipynb` in VS Code and run the cells.
 
 To test against real-world data instead of the synthetic sample, pull live
 OSM data for an area:
@@ -82,7 +87,7 @@ OSM data for an area:
 ```bash
 pip install requests
 python fetch_osm_poi.py --area dhanmondi
-python poi_qa.py --input data/dhanmondi_poi_raw.csv
+python -m streamlit run app.py
 ```
 
 ## A note on the sample data

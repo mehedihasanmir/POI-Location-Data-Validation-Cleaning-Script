@@ -1,6 +1,0 @@
-poi_id_1,name_1,poi_id_2,name_2,distance_meters,name_similarity,suggested_action
-P001,Star Kabab & Restaurant,P002,Star Kabab,15.1,1.0,merge / keep most complete record
-P003,Dhanmondi Eye Hospital,P004,Dhanmondi Eye Hospital Ltd,15.1,1.0,merge / keep most complete record
-P005,BRAC Bank Dhanmondi Branch,P006,BRAC Bank - Dhanmondi,15.1,1.0,merge / keep most complete record
-P014,Popular Diagnostic Centre,P015,Popular Diagnostic Centre Dhanmondi,15.1,1.0,merge / keep most complete record
-P022,Ibn Sina Hospital,P023,Ibn Sina Hospital Dhanmondi,10.2,1.0,merge / keep most complete record
