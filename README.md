@@ -92,7 +92,7 @@ python -m streamlit run app.py
 
 ## A note on the sample data
 
-The sample dataset is **synthetic but realistic** — I hand-built it to
+The sample dataset is **synthetic but realistic** I hand-built it to
 reflect the exact error patterns you see in real field-collected POI data
 (duplicate entries from OSM-import + field-survey overlap, missing phone
 numbers, inconsistent road-name abbreviations, mistagged categories). This
